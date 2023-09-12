@@ -1,0 +1,1 @@
+Paraguay, oficialmente República del Paraguay,​ es un país americano sin litoral situado en la zona central de América del Sur.​ Está organizado como un Estado unitario, cuyo territorio se compone por un distrito capital y diecisiete departamentos.​Su capital y ciudad más poblada es Asunción. (Wikipedia)
