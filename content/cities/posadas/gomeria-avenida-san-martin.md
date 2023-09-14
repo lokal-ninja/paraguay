@@ -1,5 +1,5 @@
 ---
 title: "Gomería"
-url: /posadas/gomeria/
+url: /posadas/gomeria-avenida-san-martin/
 shop: reparación de automóviles
 ---

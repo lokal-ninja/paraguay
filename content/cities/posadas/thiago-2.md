@@ -1,5 +1,5 @@
 ---
 title: "Thiago"
-url: /posadas/thiago/
+url: /posadas/thiago-2/
 shop: peluquería
 ---

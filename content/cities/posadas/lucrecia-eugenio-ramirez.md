@@ -1,5 +1,5 @@
 ---
 title: "Lucrecia"
-url: /posadas/lucrecia/
+url: /posadas/lucrecia-eugenio-ramirez/
 shop: bebidas
 ---

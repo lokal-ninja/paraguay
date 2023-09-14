@@ -1,5 +1,5 @@
 ---
 title: "Energy Drugstore"
-url: /asuncion/energy-drugstore/
+url: /asuncion/energy-drugstore-santa-teresa/
 shop: farmacia
 ---

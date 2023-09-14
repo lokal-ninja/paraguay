@@ -1,5 +1,5 @@
 ---
 title: "Don Pedro"
-url: /posadas/don-pedro/
+url: /posadas/don-pedro-chubut/
 shop: lavandería
 ---

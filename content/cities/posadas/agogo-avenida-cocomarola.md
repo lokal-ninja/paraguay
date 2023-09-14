@@ -1,5 +1,5 @@
 ---
 title: "Agogo"
-url: /posadas/agogo/
+url: /posadas/agogo-avenida-cocomarola/
 shop: supermercado
 ---

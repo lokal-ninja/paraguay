@@ -1,5 +1,5 @@
 ---
 title: "Despensa"
-url: /posadas/despensa/
+url: /posadas/despensa-avenida-tambor-de-tacuari/
 shop: comodidad
 ---

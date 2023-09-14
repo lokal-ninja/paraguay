@@ -1,5 +1,5 @@
 ---
 title: "Trigopan"
-url: /posadas/trigopan/
+url: /posadas/trigopan-avenida-urquiza/
 shop: panadería
 ---

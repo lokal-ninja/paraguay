@@ -1,5 +1,5 @@
 ---
 title: "Silvia"
-url: /posadas/silvia/
+url: /posadas/silvia-avenida-lavalle/
 shop: charcutería
 ---

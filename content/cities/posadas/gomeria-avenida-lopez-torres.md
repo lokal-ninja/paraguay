@@ -1,5 +1,5 @@
 ---
 title: "Gomería"
-url: /posadas/gomeria/
+url: /posadas/gomeria-avenida-lopez-torres/
 shop: reparación de automóviles
 ---

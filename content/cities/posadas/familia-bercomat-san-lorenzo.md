@@ -1,5 +1,5 @@
 ---
 title: "Familia Bercomat"
-url: /posadas/familia-bercomat/
+url: /posadas/familia-bercomat-san-lorenzo/
 shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nilda"
-url: /posadas/nilda/
+url: /posadas/nilda-avenida-constitucion/
 shop: peluquería
 ---

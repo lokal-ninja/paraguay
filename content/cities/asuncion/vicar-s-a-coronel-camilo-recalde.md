@@ -1,5 +1,5 @@
 ---
 title: "Vicar S.A."
-url: /asuncion/vicar-s-a/
+url: /asuncion/vicar-s-a-coronel-camilo-recalde/
 shop: coche
 ---

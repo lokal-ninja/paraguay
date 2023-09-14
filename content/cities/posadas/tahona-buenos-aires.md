@@ -1,5 +1,5 @@
 ---
 title: "Tahona"
-url: /posadas/tahona/
+url: /posadas/tahona-buenos-aires/
 shop: panadería
 ---

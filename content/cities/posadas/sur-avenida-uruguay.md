@@ -1,5 +1,5 @@
 ---
 title: "Sur"
-url: /posadas/sur/
+url: /posadas/sur-avenida-uruguay/
 shop: hardware
 ---

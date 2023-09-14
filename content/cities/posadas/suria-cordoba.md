@@ -1,5 +1,5 @@
 ---
 title: "Suria"
-url: /posadas/suria/
+url: /posadas/suria-cordoba/
 shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Espacio Casa"
-url: /posadas/espacio-casa/
+url: /posadas/espacio-casa-avenida-uruguay/
 shop: cama
 ---

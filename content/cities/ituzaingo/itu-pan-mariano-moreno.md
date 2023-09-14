@@ -1,5 +1,5 @@
 ---
 title: "Itu Pan"
-url: /ituzaingo/itu-pan/
+url: /ituzaingo/itu-pan-mariano-moreno/
 shop: panadería
 ---

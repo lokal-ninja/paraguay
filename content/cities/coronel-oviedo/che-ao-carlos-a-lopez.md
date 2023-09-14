@@ -1,5 +1,5 @@
 ---
 title: "Che Ao"
-url: /coronel-oviedo/che-ao/
+url: /coronel-oviedo/che-ao-carlos-a-lopez/
 shop: ropa
 ---

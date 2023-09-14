@@ -1,5 +1,5 @@
 ---
 title: "Provolone"
-url: /posadas/provolone/
+url: /posadas/provolone-avenida-tambor-de-tacuari/
 shop: queso
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Confecciones"
-url: /ciudad-del-este/confecciones/
+url: /ciudad-del-este/confecciones-2/
 shop: ropa
 ---

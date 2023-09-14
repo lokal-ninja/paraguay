@@ -1,5 +1,5 @@
 ---
 title: "Gran Via"
-url: /ciudad-del-este/gran-via/
+url: /ciudad-del-este/gran-via-monsenor-rodriguez/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Itatí"
-url: /posadas/itati/
+url: /posadas/itati-avenida-rademacher/
 shop: quiosco
 ---

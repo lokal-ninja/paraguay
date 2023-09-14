@@ -1,5 +1,5 @@
 ---
 title: "Kalce"
-url: /posadas/kalce/
+url: /posadas/kalce-2/
 shop: zapatos
 ---

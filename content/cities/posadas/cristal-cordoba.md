@@ -1,5 +1,5 @@
 ---
 title: "Cristal"
-url: /posadas/cristal/
+url: /posadas/cristal-cordoba/
 shop: óptico
 ---

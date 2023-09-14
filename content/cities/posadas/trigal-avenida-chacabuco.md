@@ -1,5 +1,5 @@
 ---
 title: "Trigal"
-url: /posadas/trigal/
+url: /posadas/trigal-avenida-chacabuco/
 shop: carnicero
 ---

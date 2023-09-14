@@ -1,5 +1,5 @@
 ---
 title: "Elena"
-url: /posadas/elena/
+url: /posadas/elena-san-luis/
 shop: cosméticos
 ---

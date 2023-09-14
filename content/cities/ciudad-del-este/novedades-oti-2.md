@@ -1,5 +1,5 @@
 ---
 title: "Novedades Oti"
-url: /ciudad-del-este/novedades-oti/
+url: /ciudad-del-este/novedades-oti-2/
 shop: ropa
 ---

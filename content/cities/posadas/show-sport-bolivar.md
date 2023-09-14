@@ -1,5 +1,5 @@
 ---
 title: "Show Sport"
-url: /posadas/show-sport/
+url: /posadas/show-sport-bolivar/
 shop: zapatos
 ---

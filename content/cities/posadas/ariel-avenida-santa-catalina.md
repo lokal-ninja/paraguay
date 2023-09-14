@@ -1,5 +1,5 @@
 ---
 title: "Ariel"
-url: /posadas/ariel/
+url: /posadas/ariel-avenida-santa-catalina/
 shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panea"
-url: /posadas/panea/
+url: /posadas/panea-avenida-ramon-martirenez/
 shop: panadería
 ---

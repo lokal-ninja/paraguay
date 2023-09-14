@@ -1,5 +1,5 @@
 ---
 title: "DeliDrinks"
-url: /posadas/delidrinks/
+url: /posadas/delidrinks-salta/
 shop: bebidas
 ---

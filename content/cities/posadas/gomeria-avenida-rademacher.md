@@ -1,5 +1,5 @@
 ---
 title: "Gomería"
-url: /posadas/gomeria/
+url: /posadas/gomeria-avenida-rademacher/
 shop: reparación de automóviles
 ---

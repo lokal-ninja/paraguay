@@ -1,5 +1,5 @@
 ---
 title: "Lennon"
-url: /posadas/lennon/
+url: /posadas/lennon-sarmiento/
 shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MultiExpress"
-url: /posadas/multiexpress/
+url: /posadas/multiexpress-avenida-tambor-de-tacuari/
 shop: supermercado
 ---

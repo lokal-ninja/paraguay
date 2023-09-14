@@ -1,5 +1,5 @@
 ---
 title: "Lujan Comercial"
-url: /san-lorenzo/lujan-comercial/
+url: /san-lorenzo/lujan-comercial-avenida-espana/
 shop: general
 ---

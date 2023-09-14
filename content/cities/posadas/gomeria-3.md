@@ -1,5 +1,5 @@
 ---
 title: "Gomería"
-url: /posadas/gomeria/
+url: /posadas/gomeria-3/
 shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mitre"
-url: /posadas/mitre/
+url: /posadas/mitre-25-de-mayo/
 shop: floristería
 ---

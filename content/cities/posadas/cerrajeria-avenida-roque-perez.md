@@ -1,5 +1,5 @@
 ---
 title: "Cerrajería"
-url: /posadas/cerrajeria/
+url: /posadas/cerrajeria-avenida-roque-perez/
 shop: cerrajero
 ---
