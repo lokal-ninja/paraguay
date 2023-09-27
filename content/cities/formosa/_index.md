@@ -1,6 +1,6 @@
 ---
 title: Formosa
 url: /formosa/
-latitude: -26.146
-longitude: -58.157
+latitude: -26.196
+longitude: -58.203
 ---
