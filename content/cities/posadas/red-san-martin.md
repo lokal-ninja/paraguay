@@ -1,5 +1,5 @@
 ---
 title: "Red"
-url: /posadas/red-avenida-lopez-y-planes/
+url: /posadas/red-san-martin/
 shop: material de oficina
 ---
