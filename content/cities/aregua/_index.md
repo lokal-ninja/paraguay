@@ -1,6 +1,6 @@
 ---
 title: Areguá
 url: /aregua/
-latitude: -25.3
-longitude: -57.408
+latitude: -25.297
+longitude: -57.417
 ---
