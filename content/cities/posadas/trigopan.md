@@ -1,5 +1,5 @@
 ---
-title: "TrigoPan"
+title: "Trigopan"
 url: /posadas/trigopan/
 shop: panadería
 ---
