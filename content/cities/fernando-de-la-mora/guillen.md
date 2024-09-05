@@ -1,5 +1,5 @@
 ---
 title: "Guillen"
 url: /fernando-de-la-mora/guillen/
-shop: peluquería
+shop: Friseur
 ---

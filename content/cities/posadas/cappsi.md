@@ -1,5 +1,5 @@
 ---
 title: "Cappsi"
 url: /posadas/cappsi/
-shop: general
+shop: Allgemein
 ---

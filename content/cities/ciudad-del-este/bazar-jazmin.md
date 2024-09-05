@@ -1,5 +1,5 @@
 ---
 title: "Bazar Jazmin"
 url: /ciudad-del-este/bazar-jazmin/
-shop: general
+shop: Allgemein
 ---

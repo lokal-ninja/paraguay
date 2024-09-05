@@ -1,5 +1,5 @@
 ---
 title: "Azmí"
 url: /posadas/azmi/
-shop: perfumería
+shop: Parfümerie
 ---

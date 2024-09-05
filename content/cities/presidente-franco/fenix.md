@@ -1,5 +1,5 @@
 ---
 title: "Fenix"
 url: /presidente-franco/fenix/
-shop: alcohol
+shop: Spirituosen
 ---

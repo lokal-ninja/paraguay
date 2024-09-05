@@ -1,5 +1,5 @@
 ---
 title: "Despensa"
 url: /posadas/despensa/
-shop: comodidad
+shop: Lebensmittel
 ---

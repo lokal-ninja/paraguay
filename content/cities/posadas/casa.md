@@ -1,5 +1,5 @@
 ---
 title: "Casa"
 url: /posadas/casa/
-shop: muebles
+shop: Möbel
 ---

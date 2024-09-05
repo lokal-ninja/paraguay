@@ -1,5 +1,5 @@
 ---
 title: "ProSer"
 url: /posadas/proser/
-shop: comercio
+shop: Baustoffe
 ---

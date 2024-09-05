@@ -1,5 +1,5 @@
 ---
 title: "Michel"
 url: /filadelfia/michel/
-shop: general
+shop: Allgemein
 ---

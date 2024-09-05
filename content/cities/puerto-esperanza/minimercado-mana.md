@@ -1,5 +1,5 @@
 ---
 title: "Minimercado Maná"
 url: /puerto-esperanza/minimercado-mana/
-shop: comodidad
+shop: Lebensmittel
 ---

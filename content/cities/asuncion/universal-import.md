@@ -1,5 +1,5 @@
 ---
 title: "Universal Import"
 url: /asuncion/universal-import/
-shop: mayorista
+shop: Großhandel
 ---

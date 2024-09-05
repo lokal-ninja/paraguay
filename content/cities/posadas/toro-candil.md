@@ -1,5 +1,5 @@
 ---
 title: "Toro Candil"
 url: /posadas/toro-candil/
-shop: carnicero
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Altoke"
 url: /hernandarias/altoke/
-shop: comodidad
+shop: Lebensmittel
 ---

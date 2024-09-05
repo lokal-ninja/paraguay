@@ -1,5 +1,5 @@
 ---
 title: "Barrikas"
 url: /posadas/barrikas/
-shop: alcohol
+shop: Spirituosen
 ---

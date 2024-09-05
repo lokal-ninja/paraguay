@@ -1,5 +1,5 @@
 ---
 title: "Ian"
 url: /posadas/ian/
-shop: hardware
+shop: Eisenwaren
 ---

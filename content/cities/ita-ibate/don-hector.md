@@ -1,5 +1,5 @@
 ---
 title: "Don Hector"
 url: /ita-ibate/don-hector/
-shop: supermercado
+shop: Supermarkt
 ---

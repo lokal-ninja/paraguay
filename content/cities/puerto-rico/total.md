@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /puerto-rico/total/
-shop: bebidas
+shop: Getränke
 ---

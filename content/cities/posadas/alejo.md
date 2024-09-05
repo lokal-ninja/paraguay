@@ -1,5 +1,5 @@
 ---
 title: "Alejo"
 url: /posadas/alejo/
-shop: comodidad
+shop: Lebensmittel
 ---

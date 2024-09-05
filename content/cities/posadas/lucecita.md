@@ -1,5 +1,5 @@
 ---
 title: "Lucecita"
 url: /posadas/lucecita/
-shop: tienda
+shop: Modehaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Multimarcas Daniel"
 url: /posadas/multimarcas-daniel/
-shop: coche
+shop: Autohaus
 ---

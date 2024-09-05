@@ -1,5 +1,5 @@
 ---
 title: "Doña Pocha"
 url: /posadas/dona-pocha/
-shop: comodidad
+shop: Lebensmittel
 ---

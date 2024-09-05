@@ -1,5 +1,5 @@
 ---
 title: "Wualá"
 url: /posadas/wuala/
-shop: copyshop
+shop: Kopieren
 ---

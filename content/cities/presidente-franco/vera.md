@@ -1,5 +1,5 @@
 ---
 title: "Vera"
 url: /presidente-franco/vera/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Joelito"
 url: /nemby/supermercado-joelito/
-shop: supermercado
+shop: Supermarkt
 ---

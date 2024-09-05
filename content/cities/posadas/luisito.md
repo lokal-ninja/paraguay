@@ -1,5 +1,5 @@
 ---
 title: "Luisito"
 url: /posadas/luisito/
-shop: comodidad
+shop: Lebensmittel
 ---

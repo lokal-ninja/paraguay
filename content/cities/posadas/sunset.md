@@ -1,5 +1,5 @@
 ---
 title: "Sunset"
 url: /posadas/sunset/
-shop: comodidad
+shop: Lebensmittel
 ---

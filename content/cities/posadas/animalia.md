@@ -1,5 +1,5 @@
 ---
 title: "Animalia"
 url: /posadas/animalia/
-shop: mascotas
+shop: Tiere
 ---

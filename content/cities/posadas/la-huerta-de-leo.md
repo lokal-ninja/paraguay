@@ -1,5 +1,5 @@
 ---
 title: "La Huerta de Leo"
 url: /posadas/la-huerta-de-leo/
-shop: frutería
+shop: Gemüse & Obst
 ---

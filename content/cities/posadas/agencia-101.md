@@ -1,5 +1,5 @@
 ---
 title: "Agencia 101"
 url: /posadas/agencia-101/
-shop: lotería
+shop: Lotterie
 ---

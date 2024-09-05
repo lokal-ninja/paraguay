@@ -1,5 +1,5 @@
 ---
 title: "Alemana"
 url: /posadas/alemana/
-shop: hardware
+shop: Eisenwaren
 ---

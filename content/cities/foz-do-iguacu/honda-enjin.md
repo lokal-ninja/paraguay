@@ -1,5 +1,5 @@
 ---
 title: "Honda Enjin"
 url: /foz-do-iguacu/honda-enjin/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grandiet"
 url: /posadas/grandiet/
-shop: comodidad
+shop: Lebensmittel
 ---

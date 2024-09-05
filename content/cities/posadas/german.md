@@ -1,5 +1,5 @@
 ---
 title: "Germán"
 url: /posadas/german/
-shop: quiosco
+shop: Kiosk
 ---

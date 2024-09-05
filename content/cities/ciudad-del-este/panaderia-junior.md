@@ -1,5 +1,5 @@
 ---
 title: "Panaderia Junior"
 url: /ciudad-del-este/panaderia-junior/
-shop: panadería
+shop: Bäckerei
 ---

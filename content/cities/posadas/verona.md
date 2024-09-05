@@ -1,5 +1,5 @@
 ---
 title: "Verona"
 url: /posadas/verona/
-shop: aparato
+shop: Haushaltsgeräte
 ---

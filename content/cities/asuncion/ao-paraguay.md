@@ -1,5 +1,5 @@
 ---
 title: "AO Paraguay"
 url: /asuncion/ao-paraguay/
-shop: regalo
+shop: Andenken
 ---

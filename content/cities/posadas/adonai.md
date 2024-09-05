@@ -1,5 +1,5 @@
 ---
 title: "Adonai"
 url: /posadas/adonai/
-shop: comodidad
+shop: Lebensmittel
 ---

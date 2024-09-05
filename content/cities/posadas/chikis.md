@@ -1,5 +1,5 @@
 ---
 title: "Chiki's"
 url: /posadas/chikis/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pannus"
 url: /posadas/pannus/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio El Pato"
 url: /puerto-rico/autoservicio-el-pato/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Despensa M.G"
 url: /capiata/despensa-m-g/
-shop: comodidad
+shop: Lebensmittel
 ---

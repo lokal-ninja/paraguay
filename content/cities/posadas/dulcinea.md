@@ -1,5 +1,5 @@
 ---
 title: "Dulcinea"
 url: /posadas/dulcinea/
-shop: quiosco
+shop: Kiosk
 ---

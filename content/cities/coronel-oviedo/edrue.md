@@ -1,5 +1,5 @@
 ---
 title: "Edrue"
 url: /coronel-oviedo/edrue/
-shop: regalo
+shop: Andenken
 ---

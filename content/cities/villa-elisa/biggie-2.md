@@ -1,5 +1,5 @@
 ---
 title: "Biggie"
 url: /villa-elisa/biggie-2/
-shop: supermercado
+shop: Supermarkt
 ---

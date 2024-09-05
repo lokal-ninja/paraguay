@@ -1,5 +1,5 @@
 ---
 title: "Greco"
 url: /formosa/greco/
-shop: mayorista
+shop: Großhandel
 ---

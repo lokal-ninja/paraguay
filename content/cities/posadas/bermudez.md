@@ -1,5 +1,5 @@
 ---
 title: "Bermúdez"
 url: /posadas/bermudez/
-shop: frutería
+shop: Gemüse & Obst
 ---

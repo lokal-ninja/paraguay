@@ -1,5 +1,5 @@
 ---
 title: "René"
 url: /aregua/rene/
-shop: supermercado
+shop: Supermarkt
 ---

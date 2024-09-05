@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria Ruth"
 url: /ciudad-del-este/peluqueria-ruth/
-shop: peluquería
+shop: Friseur
 ---

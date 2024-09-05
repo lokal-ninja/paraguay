@@ -1,5 +1,5 @@
 ---
 title: "Vinomio"
 url: /posadas/vinomio/
-shop: vino
+shop: Wein
 ---

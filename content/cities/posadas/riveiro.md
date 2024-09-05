@@ -1,5 +1,5 @@
 ---
 title: "Riveiro"
 url: /posadas/riveiro/
-shop: electrónica
+shop: Elektronik
 ---

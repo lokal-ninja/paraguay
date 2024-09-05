@@ -1,5 +1,5 @@
 ---
 title: "Celia"
 url: /posadas/celia/
-shop: comodidad
+shop: Lebensmittel
 ---

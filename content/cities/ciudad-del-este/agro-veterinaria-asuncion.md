@@ -1,5 +1,5 @@
 ---
 title: "Agro Veterinaria Asunción"
 url: /ciudad-del-este/agro-veterinaria-asuncion/
-shop: mascotas
+shop: Tiere
 ---

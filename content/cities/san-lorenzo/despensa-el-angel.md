@@ -1,5 +1,5 @@
 ---
 title: "Despensa El Angel"
 url: /san-lorenzo/despensa-el-angel/
-shop: general
+shop: Allgemein
 ---

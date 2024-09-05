@@ -1,5 +1,5 @@
 ---
 title: "Orquideario Casetum"
 url: /montecarlo/orquideario-casetum/
-shop: floristería
+shop: Blumen
 ---

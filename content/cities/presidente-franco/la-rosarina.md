@@ -1,5 +1,5 @@
 ---
 title: "La Rosarina"
 url: /presidente-franco/la-rosarina/
-shop: general
+shop: Allgemein
 ---

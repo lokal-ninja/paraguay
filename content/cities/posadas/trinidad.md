@@ -1,5 +1,5 @@
 ---
 title: "Trinidad"
 url: /posadas/trinidad/
-shop: panadería
+shop: Bäckerei
 ---

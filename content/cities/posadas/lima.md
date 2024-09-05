@@ -1,5 +1,5 @@
 ---
 title: "Lima"
 url: /posadas/lima/
-shop: ropa
+shop: Kleidung
 ---

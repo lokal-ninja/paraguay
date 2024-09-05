@@ -1,5 +1,5 @@
 ---
 title: "Mobilinea"
 url: /hernandarias/mobilinea/
-shop: electrónica
+shop: Elektronik
 ---

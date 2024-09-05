@@ -1,5 +1,5 @@
 ---
 title: "Andy Cell"
 url: /ciudad-del-este/andy-cell/
-shop: teléfono móvil
+shop: Handy
 ---

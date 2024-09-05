@@ -1,5 +1,5 @@
 ---
 title: "Mercado Solidario"
 url: /posadas/mercado-solidario/
-shop: frutería
+shop: Gemüse & Obst
 ---

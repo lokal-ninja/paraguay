@@ -1,5 +1,5 @@
 ---
 title: "RecicQuím"
 url: /posadas/recicquim/
-shop: farmacia
+shop: Drogerie
 ---

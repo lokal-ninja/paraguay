@@ -1,5 +1,5 @@
 ---
 title: "Yidu"
 url: /posadas/yidu/
-shop: comodidad
+shop: Lebensmittel
 ---

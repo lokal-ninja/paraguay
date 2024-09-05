@@ -1,5 +1,5 @@
 ---
 title: "ServiTec"
 url: /posadas/servitec/
-shop: cerrajero
+shop: Schlüsseldienst
 ---

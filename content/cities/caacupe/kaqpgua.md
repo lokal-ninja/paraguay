@@ -1,5 +1,5 @@
 ---
 title: "KAQPGUA"
 url: /caacupe/kaqpgua/
-shop: ordenador
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Márquez"
 url: /posadas/marquez-rivadavia/
-shop: electrónica
+shop: Elektronik
 ---

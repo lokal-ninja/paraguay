@@ -1,5 +1,5 @@
 ---
 title: "Javier Echeguren"
 url: /ycua-sati/javier-echeguren/
-shop: peluquería
+shop: Friseur
 ---

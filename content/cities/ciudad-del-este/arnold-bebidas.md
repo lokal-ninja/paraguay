@@ -1,5 +1,5 @@
 ---
 title: "Arnold Bebidas"
 url: /ciudad-del-este/arnold-bebidas/
-shop: bebidas
+shop: Getränke
 ---

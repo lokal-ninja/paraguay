@@ -1,5 +1,5 @@
 ---
 title: "Centroluz"
 url: /posadas/centroluz/
-shop: lámparas
+shop: Lampen
 ---

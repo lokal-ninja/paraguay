@@ -1,5 +1,5 @@
 ---
 title: "Tigre"
 url: /presidente-franco/tigre/
-shop: hardware
+shop: Eisenwaren
 ---

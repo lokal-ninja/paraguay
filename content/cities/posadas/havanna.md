@@ -1,5 +1,5 @@
 ---
 title: "Havanna"
 url: /posadas/havanna/
-shop: confitería
+shop: Süßwaren
 ---

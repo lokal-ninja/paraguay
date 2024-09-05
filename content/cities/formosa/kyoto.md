@@ -1,5 +1,5 @@
 ---
 title: "Kyoto"
 url: /formosa/kyoto/
-shop: coche
+shop: Autohaus
 ---

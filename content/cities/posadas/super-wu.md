@@ -1,5 +1,5 @@
 ---
 title: "Super Wu"
 url: /posadas/super-wu/
-shop: supermercado
+shop: Supermarkt
 ---

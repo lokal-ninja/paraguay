@@ -1,5 +1,5 @@
 ---
 title: "Marijoa Tejidos"
 url: /ycua-sati/marijoa-tejidos/
-shop: tela
+shop: Textil
 ---

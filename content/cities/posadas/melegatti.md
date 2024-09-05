@@ -1,5 +1,5 @@
 ---
 title: "Melegatti"
 url: /posadas/melegatti/
-shop: pasta
+shop: Pasta
 ---

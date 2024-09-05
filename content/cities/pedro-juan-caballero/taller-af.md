@@ -1,5 +1,5 @@
 ---
 title: "Taller AF"
 url: /pedro-juan-caballero/taller-af/
-shop: motocicleta
+shop: Motorrad
 ---

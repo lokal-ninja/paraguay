@@ -1,5 +1,5 @@
 ---
 title: "Beato Roque González"
 url: /hohenau/beato-roque-gonzalez/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yagmour"
 url: /posadas/yagmour/
-shop: ropa
+shop: Kleidung
 ---

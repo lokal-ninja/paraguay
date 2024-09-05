@@ -1,5 +1,5 @@
 ---
 title: "Gaucha"
 url: /hernandarias/gaucha/
-shop: general
+shop: Allgemein
 ---

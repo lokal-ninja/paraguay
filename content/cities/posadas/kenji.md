@@ -1,5 +1,5 @@
 ---
 title: "Kenji"
 url: /posadas/kenji/
-shop: supermercado
+shop: Supermarkt
 ---

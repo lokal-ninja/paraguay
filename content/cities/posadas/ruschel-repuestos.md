@@ -1,5 +1,5 @@
 ---
 title: "Ruschel Repuestos"
 url: /posadas/ruschel-repuestos/
-shop: piezas de automóviles
+shop: Autoteile
 ---

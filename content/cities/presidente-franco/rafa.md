@@ -1,5 +1,5 @@
 ---
 title: "Rafa"
 url: /presidente-franco/rafa/
-shop: comodidad
+shop: Lebensmittel
 ---

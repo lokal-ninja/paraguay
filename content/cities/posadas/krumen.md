@@ -1,5 +1,5 @@
 ---
 title: "Krumen"
 url: /posadas/krumen/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MARMOpar"
 url: /san-lorenzo/marmopar/
-shop: decoración interior
+shop: Raumausstattung
 ---

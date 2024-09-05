@@ -1,5 +1,5 @@
 ---
 title: "Aloha"
 url: /posadas/aloha/
-shop: deportes
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kopegraf"
 url: /posadas/kopegraf/
-shop: copyshop
+shop: Kopieren
 ---

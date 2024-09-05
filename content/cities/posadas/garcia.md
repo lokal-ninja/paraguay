@@ -1,5 +1,5 @@
 ---
 title: "Garcia"
 url: /posadas/garcia/
-shop: joyería
+shop: Schmuck
 ---

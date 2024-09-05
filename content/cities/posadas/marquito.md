@@ -1,5 +1,5 @@
 ---
 title: "Marquito"
 url: /posadas/marquito/
-shop: frutería
+shop: Gemüse & Obst
 ---

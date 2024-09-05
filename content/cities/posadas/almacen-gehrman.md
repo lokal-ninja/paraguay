@@ -1,5 +1,5 @@
 ---
 title: "Almacén Gehrman"
 url: /posadas/almacen-gehrman/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Que Corra la Voz"
 url: /posadas/que-corra-la-voz/
-shop: comodidad
+shop: Lebensmittel
 ---

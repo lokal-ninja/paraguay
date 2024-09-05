@@ -1,5 +1,5 @@
 ---
 title: "Ribeiro"
 url: /posadas/ribeiro/
-shop: electrónica
+shop: Elektronik
 ---

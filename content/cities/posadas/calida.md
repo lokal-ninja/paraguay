@@ -1,5 +1,5 @@
 ---
 title: "Calida"
 url: /posadas/calida/
-shop: comodidad
+shop: Lebensmittel
 ---

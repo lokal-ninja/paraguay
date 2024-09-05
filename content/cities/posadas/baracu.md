@@ -1,5 +1,5 @@
 ---
 title: "Baracu"
 url: /posadas/baracu/
-shop: marisco
+shop: Fisch
 ---

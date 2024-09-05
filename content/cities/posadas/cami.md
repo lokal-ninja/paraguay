@@ -1,5 +1,5 @@
 ---
 title: "Cami"
 url: /posadas/cami/
-shop: lavandería
+shop: Wäscherei
 ---

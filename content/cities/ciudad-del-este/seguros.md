@@ -1,5 +1,5 @@
 ---
 title: "Seguros"
 url: /ciudad-del-este/seguros/
-shop: general
+shop: Allgemein
 ---

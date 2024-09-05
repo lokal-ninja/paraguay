@@ -1,5 +1,5 @@
 ---
 title: "Cristal"
 url: /posadas/cristal/
-shop: cosméticos
+shop: Kosmetik
 ---

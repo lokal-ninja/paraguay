@@ -1,5 +1,5 @@
 ---
 title: "CCTL"
 url: /fernando-de-la-mora/cctl/
-shop: general
+shop: Allgemein
 ---

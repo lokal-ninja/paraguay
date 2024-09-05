@@ -1,5 +1,5 @@
 ---
 title: "Chenson"
 url: /san-lorenzo/chenson/
-shop: ropa
+shop: Kleidung
 ---

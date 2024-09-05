@@ -1,5 +1,5 @@
 ---
 title: "Mònica"
 url: /posadas/monica/
-shop: peluquería
+shop: Friseur
 ---

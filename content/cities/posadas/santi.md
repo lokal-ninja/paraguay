@@ -1,5 +1,5 @@
 ---
 title: "Santi"
 url: /posadas/santi/
-shop: frutería
+shop: Gemüse & Obst
 ---

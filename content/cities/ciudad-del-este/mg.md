@@ -1,5 +1,5 @@
 ---
 title: "MG"
 url: /ciudad-del-este/mg/
-shop: general
+shop: Allgemein
 ---

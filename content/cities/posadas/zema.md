@@ -1,5 +1,5 @@
 ---
 title: "Zema"
 url: /posadas/zema/
-shop: joyería
+shop: Schmuck
 ---

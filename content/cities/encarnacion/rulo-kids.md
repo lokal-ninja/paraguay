@@ -1,5 +1,5 @@
 ---
 title: "Rulo Kids"
 url: /encarnacion/rulo-kids/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mariuda"
 url: /ciudad-del-este/mariuda/
-shop: general
+shop: Allgemein
 ---

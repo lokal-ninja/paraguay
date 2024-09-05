@@ -1,5 +1,5 @@
 ---
 title: "MItre"
 url: /posadas/mitre/
-shop: floristería
+shop: Blumen
 ---

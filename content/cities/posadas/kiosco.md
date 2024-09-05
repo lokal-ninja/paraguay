@@ -1,5 +1,5 @@
 ---
 title: "Kiosco"
 url: /posadas/kiosco/
-shop: quiosco
+shop: Kiosk
 ---

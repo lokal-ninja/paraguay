@@ -1,5 +1,5 @@
 ---
 title: "Belleza Pura"
 url: /posadas/belleza-pura/
-shop: cosméticos
+shop: Kosmetik
 ---

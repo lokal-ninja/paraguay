@@ -1,5 +1,5 @@
 ---
 title: "Megatón"
 url: /posadas/megaton/
-shop: ropa
+shop: Kleidung
 ---

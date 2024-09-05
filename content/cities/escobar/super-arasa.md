@@ -1,5 +1,5 @@
 ---
 title: "Súper Arasa"
 url: /escobar/super-arasa/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Musimundo"
 url: /posadas/musimundo/
-shop: electrónica
+shop: Elektronik
 ---

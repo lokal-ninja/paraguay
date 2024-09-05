@@ -1,5 +1,5 @@
 ---
 title: "Rock Sport"
 url: /ciudad-del-este/rock-sport/
-shop: zapatos
+shop: Schuhe
 ---

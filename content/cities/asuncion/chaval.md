@@ -1,5 +1,5 @@
 ---
 title: "Chaval"
 url: /asuncion/chaval/
-shop: panadería
+shop: Bäckerei
 ---

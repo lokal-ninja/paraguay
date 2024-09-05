@@ -1,5 +1,5 @@
 ---
 title: "Cenicienta"
 url: /posadas/cenicienta/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chacomer Automotores"
 url: /ciudad-del-este/chacomer-automotores/
-shop: coche
+shop: Autohaus
 ---

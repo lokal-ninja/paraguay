@@ -1,5 +1,5 @@
 ---
 title: "Verdulería"
 url: /posadas/verduleria/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flores"
 url: /posadas/flores/
-shop: coche
+shop: Autohaus
 ---

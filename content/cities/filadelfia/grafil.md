@@ -1,5 +1,5 @@
 ---
 title: "Grafíl"
 url: /filadelfia/grafil/
-shop: copyshop
+shop: Kopieren
 ---

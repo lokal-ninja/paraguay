@@ -1,5 +1,5 @@
 ---
 title: "Quinta Pata"
 url: /posadas/quinta-pata/
-shop: mascotas
+shop: Tiere
 ---

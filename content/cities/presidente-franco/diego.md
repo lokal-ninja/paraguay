@@ -1,5 +1,5 @@
 ---
 title: "Diego"
 url: /presidente-franco/diego/
-shop: panadería
+shop: Bäckerei
 ---

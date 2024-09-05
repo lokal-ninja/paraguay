@@ -1,5 +1,5 @@
 ---
 title: "Ruleis"
 url: /posadas/ruleis/
-shop: comercio
+shop: Baustoffe
 ---

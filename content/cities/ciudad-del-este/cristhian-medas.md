@@ -1,5 +1,5 @@
 ---
 title: "Cristhian Medas"
 url: /ciudad-del-este/cristhian-medas/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fono Alan"
 url: /ciudad-del-este/fono-alan/
-shop: electrónica
+shop: Elektronik
 ---

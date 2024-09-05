@@ -1,5 +1,5 @@
 ---
 title: "Nahuel"
 url: /posadas/nahuel/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Andrea"
 url: /posadas/andrea/
-shop: comodidad
+shop: Lebensmittel
 ---

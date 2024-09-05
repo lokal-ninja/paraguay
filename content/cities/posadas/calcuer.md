@@ -1,5 +1,5 @@
 ---
 title: "Calcuer"
 url: /posadas/calcuer/
-shop: ropa
+shop: Kleidung
 ---

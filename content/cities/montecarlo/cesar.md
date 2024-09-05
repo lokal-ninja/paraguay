@@ -1,5 +1,5 @@
 ---
 title: "César"
 url: /montecarlo/cesar/
-shop: frutería
+shop: Gemüse & Obst
 ---

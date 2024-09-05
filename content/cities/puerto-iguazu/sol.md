@@ -1,5 +1,5 @@
 ---
 title: "Sol"
 url: /puerto-iguazu/sol/
-shop: comodidad
+shop: Lebensmittel
 ---

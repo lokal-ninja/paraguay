@@ -1,5 +1,5 @@
 ---
 title: "Agro Rio"
 url: /ciudad-del-este/agro-rio/
-shop: general
+shop: Allgemein
 ---

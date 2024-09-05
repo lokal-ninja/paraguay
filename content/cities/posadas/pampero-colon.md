@@ -1,5 +1,5 @@
 ---
 title: "Pampero"
 url: /posadas/pampero-colon/
-shop: ropa
+shop: Kleidung
 ---

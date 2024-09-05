@@ -1,5 +1,5 @@
 ---
 title: "Aripuca"
 url: /posadas/aripuca/
-shop: muebles
+shop: Möbel
 ---

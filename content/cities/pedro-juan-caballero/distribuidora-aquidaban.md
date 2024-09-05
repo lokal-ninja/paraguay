@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Aquidaban"
 url: /pedro-juan-caballero/distribuidora-aquidaban/
-shop: supermercado
+shop: Supermarkt
 ---

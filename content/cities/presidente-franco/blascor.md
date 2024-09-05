@@ -1,5 +1,5 @@
 ---
 title: "Blascor"
 url: /presidente-franco/blascor/
-shop: general
+shop: Allgemein
 ---

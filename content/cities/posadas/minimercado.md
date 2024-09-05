@@ -1,5 +1,5 @@
 ---
 title: "Minimercado"
 url: /posadas/minimercado/
-shop: comodidad
+shop: Lebensmittel
 ---

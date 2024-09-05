@@ -1,5 +1,5 @@
 ---
 title: "Duomo"
 url: /puerto-iguazu/duomo/
-shop: helado
+shop: Eisprodukte
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria San Rodoe"
 url: /fernando-de-la-mora/ferreteria-san-rodoe/
-shop: hardware
+shop: Eisenwaren
 ---

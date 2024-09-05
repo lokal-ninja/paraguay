@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Ayala"
 url: /paraguari/supermercado-ayala/
-shop: supermercado
+shop: Supermarkt
 ---

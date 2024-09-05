@@ -1,5 +1,5 @@
 ---
 title: "Kraus"
 url: /posadas/kraus/
-shop: mayorista
+shop: Großhandel
 ---

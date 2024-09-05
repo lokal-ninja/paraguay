@@ -1,5 +1,5 @@
 ---
 title: "Ummo"
 url: /posadas/ummo/
-shop: comodidad
+shop: Lebensmittel
 ---

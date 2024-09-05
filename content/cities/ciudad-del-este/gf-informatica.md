@@ -1,5 +1,5 @@
 ---
 title: "GF Informática"
 url: /ciudad-del-este/gf-informatica/
-shop: prestamista
+shop: Leiher
 ---

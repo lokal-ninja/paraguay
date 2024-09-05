@@ -1,5 +1,5 @@
 ---
 title: "Argentina"
 url: /posadas/argentina/
-shop: hardware
+shop: Eisenwaren
 ---

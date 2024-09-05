@@ -1,5 +1,5 @@
 ---
 title: "Mostacho"
 url: /posadas/mostacho/
-shop: tienda
+shop: Modehaus
 ---

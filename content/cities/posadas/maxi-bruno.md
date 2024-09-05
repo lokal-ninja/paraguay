@@ -1,5 +1,5 @@
 ---
 title: "Maxi Bruno"
 url: /posadas/maxi-bruno/
-shop: comodidad
+shop: Lebensmittel
 ---

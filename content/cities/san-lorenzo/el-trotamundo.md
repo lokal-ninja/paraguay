@@ -1,5 +1,5 @@
 ---
 title: "El Trotamundo"
 url: /san-lorenzo/el-trotamundo/
-shop: general
+shop: Allgemein
 ---

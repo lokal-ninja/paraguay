@@ -1,5 +1,5 @@
 ---
 title: "Garbarino"
 url: /posadas/garbarino/
-shop: electrónica
+shop: Elektronik
 ---

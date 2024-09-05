@@ -1,5 +1,5 @@
 ---
 title: "Don Feliciano"
 url: /posadas/don-feliciano/
-shop: comodidad
+shop: Lebensmittel
 ---

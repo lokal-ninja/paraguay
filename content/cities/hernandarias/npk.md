@@ -1,5 +1,5 @@
 ---
 title: "NPK"
 url: /hernandarias/npk/
-shop: agraria
+shop: Landwirtschaftlich
 ---

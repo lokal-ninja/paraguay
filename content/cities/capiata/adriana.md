@@ -1,5 +1,5 @@
 ---
 title: "Adriana"
 url: /capiata/adriana/
-shop: panadería
+shop: Bäckerei
 ---

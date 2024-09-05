@@ -1,5 +1,5 @@
 ---
 title: "Base"
 url: /posadas/base/
-shop: tienda
+shop: Modehaus
 ---

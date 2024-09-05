@@ -1,5 +1,5 @@
 ---
 title: "Victor Bebidas"
 url: /ciudad-del-este/victor-bebidas/
-shop: comodidad
+shop: Lebensmittel
 ---

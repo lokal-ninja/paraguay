@@ -1,5 +1,5 @@
 ---
 title: "Beef Shop"
 url: /asuncion/beef-shop/
-shop: supermercado
+shop: Supermarkt
 ---

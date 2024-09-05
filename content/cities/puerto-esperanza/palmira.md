@@ -1,5 +1,5 @@
 ---
 title: "Palmira"
 url: /puerto-esperanza/palmira/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Many"
 url: /montecarlo/many/
-shop: hardware
+shop: Eisenwaren
 ---

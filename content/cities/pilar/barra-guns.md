@@ -1,5 +1,5 @@
 ---
 title: "Barra Guns"
 url: /pilar/barra-guns/
-shop: prestamista
+shop: Leiher
 ---

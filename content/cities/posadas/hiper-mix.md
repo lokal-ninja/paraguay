@@ -1,5 +1,5 @@
 ---
 title: "Hiper Mix"
 url: /posadas/hiper-mix/
-shop: comodidad
+shop: Lebensmittel
 ---

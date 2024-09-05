@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Brasil"
 url: /hernandarias/ferreteria-brasil/
-shop: hardware
+shop: Eisenwaren
 ---

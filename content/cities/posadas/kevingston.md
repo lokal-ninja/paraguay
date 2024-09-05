@@ -1,5 +1,5 @@
 ---
 title: "Kevingston"
 url: /posadas/kevingston/
-shop: ropa
+shop: Kleidung
 ---

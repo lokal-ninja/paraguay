@@ -1,5 +1,5 @@
 ---
 title: "Dayton"
 url: /posadas/dayton/
-shop: joyería
+shop: Schmuck
 ---

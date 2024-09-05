@@ -1,5 +1,5 @@
 ---
 title: "Broer"
 url: /posadas/broer/
-shop: ropa
+shop: Kleidung
 ---

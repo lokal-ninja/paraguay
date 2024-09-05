@@ -1,5 +1,5 @@
 ---
 title: "Planet Sound"
 url: /san-lorenzo/planet-sound/
-shop: electrónica
+shop: Elektronik
 ---

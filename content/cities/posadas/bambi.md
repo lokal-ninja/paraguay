@@ -1,5 +1,5 @@
 ---
 title: "Bambi"
 url: /posadas/bambi/
-shop: comodidad
+shop: Lebensmittel
 ---

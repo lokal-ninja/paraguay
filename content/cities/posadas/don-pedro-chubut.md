@@ -1,5 +1,5 @@
 ---
 title: "Don Pedro"
 url: /posadas/don-pedro-chubut/
-shop: lavandería
+shop: Wäscherei
 ---

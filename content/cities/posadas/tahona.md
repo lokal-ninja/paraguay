@@ -1,5 +1,5 @@
 ---
 title: "Tahona"
 url: /posadas/tahona/
-shop: panadería
+shop: Bäckerei
 ---

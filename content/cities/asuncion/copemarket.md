@@ -1,5 +1,5 @@
 ---
 title: "Copemarket"
 url: /asuncion/copemarket/
-shop: comodidad
+shop: Lebensmittel
 ---

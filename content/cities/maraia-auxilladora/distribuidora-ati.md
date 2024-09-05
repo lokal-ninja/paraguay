@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora ATI"
 url: /maraia-auxilladora/distribuidora-ati/
-shop: supermercado
+shop: Supermarkt
 ---

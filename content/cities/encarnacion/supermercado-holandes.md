@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Holandés"
 url: /encarnacion/supermercado-holandes/
-shop: supermercado
+shop: Supermarkt
 ---

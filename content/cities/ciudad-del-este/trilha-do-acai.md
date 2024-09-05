@@ -1,5 +1,5 @@
 ---
 title: "Trilha Do Acai"
 url: /ciudad-del-este/trilha-do-acai/
-shop: frutería
+shop: Gemüse & Obst
 ---

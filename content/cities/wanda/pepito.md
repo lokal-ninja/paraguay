@@ -1,5 +1,5 @@
 ---
 title: "Pepito"
 url: /wanda/pepito/
-shop: frutería
+shop: Gemüse & Obst
 ---

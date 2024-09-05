@@ -1,5 +1,5 @@
 ---
 title: "Weekend"
 url: /posadas/weekend/
-shop: general
+shop: Allgemein
 ---

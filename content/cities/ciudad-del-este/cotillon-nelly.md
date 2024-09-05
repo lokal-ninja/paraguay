@@ -1,5 +1,5 @@
 ---
 title: "Cotillon Nelly"
 url: /ciudad-del-este/cotillon-nelly/
-shop: general
+shop: Allgemein
 ---

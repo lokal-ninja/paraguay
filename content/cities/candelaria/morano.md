@@ -1,5 +1,5 @@
 ---
 title: "Morano"
 url: /candelaria/morano/
-shop: hardware
+shop: Eisenwaren
 ---

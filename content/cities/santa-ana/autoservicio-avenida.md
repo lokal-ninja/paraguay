@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Avenida"
 url: /santa-ana/autoservicio-avenida/
-shop: comodidad
+shop: Lebensmittel
 ---

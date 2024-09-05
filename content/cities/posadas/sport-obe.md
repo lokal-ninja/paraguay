@@ -1,5 +1,5 @@
 ---
 title: "Sport Obe"
 url: /posadas/sport-obe/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carlitos"
 url: /puerto-rico/carlitos/
-shop: supermercado
+shop: Supermarkt
 ---

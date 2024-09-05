@@ -1,5 +1,5 @@
 ---
 title: "Arredo"
 url: /posadas/arredo/
-shop: cama
+shop: Betten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Todomoda"
 url: /posadas/todomoda/
-shop: tienda
+shop: Modehaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CS"
 url: /coronel-oviedo/cs/
-shop: ropa
+shop: Kleidung
 ---

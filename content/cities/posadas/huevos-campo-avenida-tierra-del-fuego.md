@@ -1,5 +1,5 @@
 ---
 title: "Huevos Campo"
 url: /posadas/huevos-campo-avenida-tierra-del-fuego/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quintata"
 url: /presidente-franco/quintata/
-shop: general
+shop: Allgemein
 ---

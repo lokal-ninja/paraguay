@@ -1,5 +1,5 @@
 ---
 title: "Nacho"
 url: /posadas/nacho/
-shop: hardware
+shop: Eisenwaren
 ---

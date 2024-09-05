@@ -1,5 +1,5 @@
 ---
 title: "Bratz"
 url: /montecarlo/bratz/
-shop: zapatos
+shop: Schuhe
 ---

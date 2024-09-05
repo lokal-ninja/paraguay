@@ -1,5 +1,5 @@
 ---
 title: "Despensa Magda"
 url: /ciudad-del-este/despensa-magda/
-shop: comodidad
+shop: Lebensmittel
 ---

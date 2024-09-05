@@ -1,5 +1,5 @@
 ---
 title: "Bella Rosa"
 url: /san-lorenzo/bella-rosa/
-shop: ropa
+shop: Kleidung
 ---

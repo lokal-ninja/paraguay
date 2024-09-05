@@ -1,5 +1,5 @@
 ---
 title: "Belen"
 url: /candelaria/belen/
-shop: muebles
+shop: Möbel
 ---

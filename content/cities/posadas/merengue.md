@@ -1,5 +1,5 @@
 ---
 title: "Merengue"
 url: /posadas/merengue/
-shop: pastelería
+shop: Konditorei
 ---

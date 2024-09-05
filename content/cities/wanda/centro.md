@@ -1,5 +1,5 @@
 ---
 title: "Centro"
 url: /wanda/centro/
-shop: comercio
+shop: Baustoffe
 ---

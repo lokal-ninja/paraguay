@@ -1,5 +1,5 @@
 ---
 title: "Cicara"
 url: /san-lorenzo/cicara/
-shop: general
+shop: Allgemein
 ---

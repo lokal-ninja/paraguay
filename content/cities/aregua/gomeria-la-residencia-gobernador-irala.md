@@ -1,5 +1,5 @@
 ---
 title: "Gomeria"
 url: /aregua/gomeria-la-residencia-gobernador-irala/
-shop: neumáticos
+shop: Reifen
 ---

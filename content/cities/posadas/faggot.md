@@ -1,5 +1,5 @@
 ---
 title: "Faggot"
 url: /posadas/faggot/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moconá"
 url: /posadas/mocona/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Despensa"
 url: /puerto-iguazu/despensa-el-halcon/
-shop: comodidad
+shop: Lebensmittel
 ---

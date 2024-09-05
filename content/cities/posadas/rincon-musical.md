@@ -1,5 +1,5 @@
 ---
 title: "Rincón Musical"
 url: /posadas/rincon-musical/
-shop: música
+shop: Musik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zanon Móveis"
 url: /foz-do-iguacu/zanon-moveis/
-shop: muebles
+shop: Möbel
 ---

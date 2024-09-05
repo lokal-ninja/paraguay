@@ -1,5 +1,5 @@
 ---
 title: "El Polaco"
 url: /posadas/el-polaco/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunlop"
 url: /san-lorenzo/dunlop/
-shop: neumáticos
+shop: Reifen
 ---

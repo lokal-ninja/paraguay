@@ -1,5 +1,5 @@
 ---
 title: "Angeluz"
 url: /posadas/angeluz/
-shop: peluquería
+shop: Friseur
 ---

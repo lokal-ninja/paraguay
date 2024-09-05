@@ -1,5 +1,5 @@
 ---
 title: "Melany"
 url: /puerto-iguazu/melany/
-shop: confitería
+shop: Süßwaren
 ---

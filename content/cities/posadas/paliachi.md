@@ -1,5 +1,5 @@
 ---
 title: "Paliachi"
 url: /posadas/paliachi/
-shop: helado
+shop: Eisprodukte
 ---

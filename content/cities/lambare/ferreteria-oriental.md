@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Oriental"
 url: /lambare/ferreteria-oriental/
-shop: hardware
+shop: Eisenwaren
 ---

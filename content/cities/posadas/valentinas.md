@@ -1,5 +1,5 @@
 ---
 title: "Valentinas"
 url: /posadas/valentinas/
-shop: panadería
+shop: Bäckerei
 ---

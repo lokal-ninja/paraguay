@@ -1,5 +1,5 @@
 ---
 title: "Minimercado Faby"
 url: /hernandarias/minimercado-faby/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colper Market"
 url: /posadas/colper-market/
-shop: frutería
+shop: Gemüse & Obst
 ---

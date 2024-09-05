@@ -1,5 +1,5 @@
 ---
 title: "JW Sport"
 url: /lambare/jw-sport/
-shop: deportes
+shop: Sport
 ---

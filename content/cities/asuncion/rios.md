@@ -1,5 +1,5 @@
 ---
 title: "Rios"
 url: /asuncion/rios/
-shop: neumáticos
+shop: Reifen
 ---

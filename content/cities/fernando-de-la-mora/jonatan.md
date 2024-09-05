@@ -1,5 +1,5 @@
 ---
 title: "Jonatan"
 url: /fernando-de-la-mora/jonatan/
-shop: general
+shop: Allgemein
 ---

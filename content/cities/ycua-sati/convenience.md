@@ -1,5 +1,5 @@
 ---
 title: "Convenience"
 url: /ycua-sati/convenience/
-shop: comodidad
+shop: Lebensmittel
 ---

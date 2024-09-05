@@ -1,5 +1,5 @@
 ---
 title: "Inverfin"
 url: /asuncion/inverfin/
-shop: general
+shop: Allgemein
 ---

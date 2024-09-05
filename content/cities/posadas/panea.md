@@ -1,5 +1,5 @@
 ---
 title: "Panea"
 url: /posadas/panea/
-shop: panadería
+shop: Bäckerei
 ---

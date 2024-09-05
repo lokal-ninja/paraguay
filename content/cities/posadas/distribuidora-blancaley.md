@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Blancaley"
 url: /posadas/distribuidora-blancaley/
-shop: hardware
+shop: Eisenwaren
 ---

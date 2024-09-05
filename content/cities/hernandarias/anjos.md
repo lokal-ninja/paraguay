@@ -1,5 +1,5 @@
 ---
 title: "Anjos"
 url: /hernandarias/anjos/
-shop: cama
+shop: Betten
 ---

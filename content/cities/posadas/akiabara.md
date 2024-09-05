@@ -1,5 +1,5 @@
 ---
 title: "Akiabara"
 url: /posadas/akiabara/
-shop: ropa
+shop: Kleidung
 ---

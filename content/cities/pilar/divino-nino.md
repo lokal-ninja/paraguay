@@ -1,5 +1,5 @@
 ---
 title: "Divino NIño"
 url: /pilar/divino-nino/
-shop: frutería
+shop: Gemüse & Obst
 ---

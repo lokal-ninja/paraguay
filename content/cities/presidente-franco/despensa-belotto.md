@@ -1,5 +1,5 @@
 ---
 title: "Despensa Belotto"
 url: /presidente-franco/despensa-belotto/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Electro Misiones S.A."
 url: /posadas/electro-misiones-s-a/
-shop: electrónica
+shop: Elektronik
 ---
