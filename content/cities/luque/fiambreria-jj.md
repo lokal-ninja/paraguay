@@ -1,5 +1,5 @@
 ---
 title: "Fiambreria JJ"
 url: /luque/fiambreria-jj/
-shop: Allgemein
+shop: general
 ---

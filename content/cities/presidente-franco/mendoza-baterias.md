@@ -1,5 +1,5 @@
 ---
 title: "Mendóza baterías"
 url: /presidente-franco/mendoza-baterias/
-shop: Autoteile
+shop: piezas de automóviles
 ---

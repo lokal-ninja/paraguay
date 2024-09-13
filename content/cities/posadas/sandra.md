@@ -1,5 +1,5 @@
 ---
 title: "Sandra"
 url: /posadas/sandra/
-shop: Kleidung
+shop: ropa
 ---

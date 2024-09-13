@@ -1,5 +1,5 @@
 ---
 title: "Naranja"
 url: /posadas/naranja/
-shop: Lebensmittel
+shop: comodidad
 ---

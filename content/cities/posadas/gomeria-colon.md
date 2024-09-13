@@ -1,5 +1,5 @@
 ---
 title: "Gomería"
 url: /posadas/gomeria-colon/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

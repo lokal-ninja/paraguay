@@ -1,5 +1,5 @@
 ---
 title: "Vigor"
 url: /posadas/vigor/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Quincho"
 url: /obligado/el-quincho/
-shop: Supermarkt
+shop: supermercado
 ---

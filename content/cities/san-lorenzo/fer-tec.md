@@ -1,5 +1,5 @@
 ---
 title: "Fer Tec"
 url: /san-lorenzo/fer-tec/
-shop: Elektronik
+shop: electrónica
 ---

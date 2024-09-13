@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /posadas/wawa/
-shop: Kleidung
+shop: ropa
 ---

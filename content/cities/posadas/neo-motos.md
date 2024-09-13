@@ -1,5 +1,5 @@
 ---
 title: "Neo Motos"
 url: /posadas/neo-motos/
-shop: Motorrad
+shop: motocicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garbarini"
 url: /posadas/garbarini/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Opitca Mimbi"
 url: /minga-guazu/opitca-mimbi/
-shop: Optiker
+shop: óptico
 ---

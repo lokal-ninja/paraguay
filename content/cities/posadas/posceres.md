@@ -1,5 +1,5 @@
 ---
 title: "Posceres"
 url: /posadas/posceres/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Futuro"
 url: /san-lorenzo/el-futuro/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meister Sacabollos"
 url: /puerto-rico/meister-sacabollos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

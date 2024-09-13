@@ -1,5 +1,5 @@
 ---
 title: "Master Grill"
 url: /posadas/master-grill/
-shop: Allgemein
+shop: general
 ---

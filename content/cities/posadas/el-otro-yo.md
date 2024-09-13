@@ -1,5 +1,5 @@
 ---
 title: "El Otro Yo"
 url: /posadas/el-otro-yo/
-shop: Kiosk
+shop: quiosco
 ---

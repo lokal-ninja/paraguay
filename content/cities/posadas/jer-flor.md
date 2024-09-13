@@ -1,5 +1,5 @@
 ---
 title: "Jer Flor"
 url: /posadas/jer-flor/
-shop: Schreibwaren
+shop: material de oficina
 ---

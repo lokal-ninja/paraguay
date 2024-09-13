@@ -1,5 +1,5 @@
 ---
 title: "M.E. Automotores"
 url: /ciudad-del-este/m-e-automotores/
-shop: Autohaus
+shop: coche
 ---

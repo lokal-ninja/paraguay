@@ -1,5 +1,5 @@
 ---
 title: "Supremo"
 url: /posadas/supremo/
-shop: Supermarkt
+shop: supermercado
 ---

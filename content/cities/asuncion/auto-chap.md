@@ -1,5 +1,5 @@
 ---
 title: "Auto Chap"
 url: /asuncion/auto-chap/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

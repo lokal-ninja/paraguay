@@ -1,5 +1,5 @@
 ---
 title: "Kinsalud"
 url: /san-lorenzo/kinsalud/
-shop: Allgemein
+shop: general
 ---

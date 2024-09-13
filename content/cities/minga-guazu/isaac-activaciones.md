@@ -1,5 +1,5 @@
 ---
 title: "Isaac Activaciones"
 url: /minga-guazu/isaac-activaciones/
-shop: Allgemein
+shop: general
 ---

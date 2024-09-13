@@ -1,5 +1,5 @@
 ---
 title: "Paz Eterna"
 url: /posadas/paz-eterna/
-shop: Bestattungen
+shop: directores de funerarias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carniceria Don Guato"
 url: /ciudad-del-este/carniceria-don-guato/
-shop: Allgemein
+shop: general
 ---

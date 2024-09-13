@@ -1,5 +1,5 @@
 ---
 title: "Nacho Comercial"
 url: /san-ignacio-guazu/nacho-comercial/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

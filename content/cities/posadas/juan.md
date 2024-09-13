@@ -1,5 +1,5 @@
 ---
 title: "Juan"
 url: /posadas/juan/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vitalcer"
 url: /posadas/vitalcer/
-shop: Lebensmittel
+shop: comodidad
 ---

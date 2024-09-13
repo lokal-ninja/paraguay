@@ -1,5 +1,5 @@
 ---
 title: "Fotocopiadora Norma"
 url: /alberdi/fotocopiadora-norma/
-shop: Schreibwaren
+shop: material de oficina
 ---

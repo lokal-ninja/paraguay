@@ -1,5 +1,5 @@
 ---
 title: "Rectimec"
 url: /posadas/rectimec/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

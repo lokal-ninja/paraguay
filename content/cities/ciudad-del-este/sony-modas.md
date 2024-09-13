@@ -1,5 +1,5 @@
 ---
 title: "Sony Modas"
 url: /ciudad-del-este/sony-modas/
-shop: Kleidung
+shop: ropa
 ---

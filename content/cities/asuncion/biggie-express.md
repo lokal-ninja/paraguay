@@ -1,5 +1,5 @@
 ---
 title: "Biggie Express"
 url: /asuncion/biggie-express/
-shop: Lebensmittel
+shop: comodidad
 ---

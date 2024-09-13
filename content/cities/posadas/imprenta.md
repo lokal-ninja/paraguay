@@ -1,5 +1,5 @@
 ---
 title: "IMprenta"
 url: /posadas/imprenta/
-shop: Schreibwaren
+shop: material de oficina
 ---

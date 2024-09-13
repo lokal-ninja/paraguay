@@ -1,5 +1,5 @@
 ---
 title: "City Shop"
 url: /ciudad-del-este/city-shop/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BEPA"
 url: /alberdi/bepa/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

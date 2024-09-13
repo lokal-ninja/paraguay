@@ -1,5 +1,5 @@
 ---
 title: "Bulonera CC"
 url: /puerto-rico/bulonera-cc/
-shop: Eisenwaren
+shop: hardware
 ---

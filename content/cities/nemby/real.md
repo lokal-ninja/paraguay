@@ -1,5 +1,5 @@
 ---
 title: "Real"
 url: /nemby/real/
-shop: Supermarkt
+shop: supermercado
 ---

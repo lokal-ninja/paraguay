@@ -1,5 +1,5 @@
 ---
 title: "VG"
 url: /hernandarias/vg/
-shop: Autoteile
+shop: piezas de automóviles
 ---

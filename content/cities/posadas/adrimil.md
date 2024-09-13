@@ -1,5 +1,5 @@
 ---
 title: "Adrimil"
 url: /posadas/adrimil/
-shop: Lebensmittel
+shop: comodidad
 ---

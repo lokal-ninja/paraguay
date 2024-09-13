@@ -1,5 +1,5 @@
 ---
 title: "Casa Palma"
 url: /montecarlo/casa-palma/
-shop: Möbel
+shop: muebles
 ---

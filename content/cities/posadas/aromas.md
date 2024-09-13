@@ -1,5 +1,5 @@
 ---
 title: "Aromas"
 url: /posadas/aromas/
-shop: Bäckerei
+shop: panadería
 ---

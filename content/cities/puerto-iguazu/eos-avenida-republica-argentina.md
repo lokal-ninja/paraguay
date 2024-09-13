@@ -1,5 +1,5 @@
 ---
 title: "EOS"
 url: /puerto-iguazu/eos-avenida-republica-argentina/
-shop: Supermarkt
+shop: supermercado
 ---

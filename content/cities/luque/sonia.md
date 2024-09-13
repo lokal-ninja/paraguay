@@ -1,5 +1,5 @@
 ---
 title: "Sonia"
 url: /luque/sonia/
-shop: Allgemein
+shop: general
 ---

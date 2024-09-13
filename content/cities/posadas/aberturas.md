@@ -1,5 +1,5 @@
 ---
 title: "Aberturas"
 url: /posadas/aberturas/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

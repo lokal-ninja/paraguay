@@ -1,5 +1,5 @@
 ---
 title: "Peluquería"
 url: /posadas/peluqueria/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mecánica Ibarra"
 url: /posadas/mecanica-ibarra/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

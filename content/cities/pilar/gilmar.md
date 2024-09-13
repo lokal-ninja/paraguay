@@ -1,5 +1,5 @@
 ---
 title: "Gilmar"
 url: /pilar/gilmar/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Constanza"
 url: /posadas/constanza/
-shop: Kleidung
+shop: ropa
 ---

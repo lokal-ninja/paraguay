@@ -1,5 +1,5 @@
 ---
 title: "Optilens"
 url: /posadas/optilens/
-shop: Optiker
+shop: óptico
 ---

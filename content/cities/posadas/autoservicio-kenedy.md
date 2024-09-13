@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Kenedy"
 url: /posadas/autoservicio-kenedy/
-shop: Supermarkt
+shop: supermercado
 ---

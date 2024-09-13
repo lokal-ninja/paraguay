@@ -1,5 +1,5 @@
 ---
 title: "Alta Gracia"
 url: /posadas/alta-gracia/
-shop: Lebensmittel
+shop: comodidad
 ---

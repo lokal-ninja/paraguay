@@ -1,5 +1,5 @@
 ---
 title: "Personal"
 url: /concepcion/personal/
-shop: Handy
+shop: teléfono móvil
 ---

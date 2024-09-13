@@ -1,5 +1,5 @@
 ---
 title: "Canduncho"
 url: /candelaria/canduncho/
-shop: Zeitungen
+shop: quiosco
 ---

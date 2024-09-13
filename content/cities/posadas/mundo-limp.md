@@ -1,5 +1,5 @@
 ---
 title: "Mundo Limp"
 url: /posadas/mundo-limp/
-shop: Drogerie
+shop: farmacia
 ---

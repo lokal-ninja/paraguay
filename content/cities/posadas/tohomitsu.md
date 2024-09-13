@@ -1,5 +1,5 @@
 ---
 title: "Tohomitsu"
 url: /posadas/tohomitsu/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ricatti"
 url: /posadas/ricatti/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Cooperativa Pirapó"
 url: /pirapo/supermercado-cooperativa-pirapo/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Changomás"
 url: /posadas/changomas/
-shop: Supermarkt
+shop: supermercado
 ---

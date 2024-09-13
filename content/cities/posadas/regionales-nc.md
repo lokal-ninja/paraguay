@@ -1,5 +1,5 @@
 ---
 title: "Regionales NC"
 url: /posadas/regionales-nc/
-shop: Andenken
+shop: regalo
 ---

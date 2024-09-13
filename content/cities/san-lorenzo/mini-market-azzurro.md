@@ -1,5 +1,5 @@
 ---
 title: "Mini Market Azzurro"
 url: /san-lorenzo/mini-market-azzurro/
-shop: Supermarkt
+shop: supermercado
 ---

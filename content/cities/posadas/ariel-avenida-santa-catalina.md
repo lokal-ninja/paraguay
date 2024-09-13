@@ -1,5 +1,5 @@
 ---
 title: "Ariel"
 url: /posadas/ariel-avenida-santa-catalina/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Emanuel"
 url: /montecarlo/emanuel/
-shop: Fahrrad
+shop: bicicleta
 ---

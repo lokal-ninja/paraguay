@@ -1,5 +1,5 @@
 ---
 title: "TA-TA"
 url: /ituzaingo/ta-ta/
-shop: Supermarkt
+shop: supermercado
 ---

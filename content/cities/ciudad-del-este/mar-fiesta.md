@@ -1,5 +1,5 @@
 ---
 title: "Mar Fiesta"
 url: /ciudad-del-este/mar-fiesta/
-shop: Allgemein
+shop: general
 ---

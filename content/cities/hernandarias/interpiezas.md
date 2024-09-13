@@ -1,5 +1,5 @@
 ---
 title: "Interpiezas"
 url: /hernandarias/interpiezas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

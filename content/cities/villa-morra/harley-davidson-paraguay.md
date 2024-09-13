@@ -1,5 +1,5 @@
 ---
 title: "Harley-Davidson Paraguay"
 url: /villa-morra/harley-davidson-paraguay/
-shop: Motorrad
+shop: motocicleta
 ---

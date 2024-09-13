@@ -1,5 +1,5 @@
 ---
 title: "Forrajes El Polakito"
 url: /posadas/forrajes-el-polakito/
-shop: Gewürze
+shop: especias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toyotoshi"
 url: /asuncion/toyotoshi/
-shop: Autohaus
+shop: coche
 ---

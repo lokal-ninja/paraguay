@@ -1,5 +1,5 @@
 ---
 title: "Gobau"
 url: /coronel-oviedo/gobau/
-shop: Kleidung
+shop: ropa
 ---

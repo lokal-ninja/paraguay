@@ -1,5 +1,5 @@
 ---
 title: "Toyocar"
 url: /posadas/toyocar/
-shop: Autohaus
+shop: coche
 ---

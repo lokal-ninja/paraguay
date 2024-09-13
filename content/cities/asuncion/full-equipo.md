@@ -1,5 +1,5 @@
 ---
 title: "Full Equipo"
 url: /asuncion/full-equipo/
-shop: Allgemein
+shop: general
 ---

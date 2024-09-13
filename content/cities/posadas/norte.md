@@ -1,5 +1,5 @@
 ---
 title: "Norte"
 url: /posadas/norte/
-shop: Eisenwaren
+shop: hardware
 ---

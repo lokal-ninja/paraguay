@@ -1,5 +1,5 @@
 ---
 title: "Papelitos"
 url: /posadas/papelitos/
-shop: Schreibwaren
+shop: material de oficina
 ---

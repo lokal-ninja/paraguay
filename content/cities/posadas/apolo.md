@@ -1,5 +1,5 @@
 ---
 title: "Apolo"
 url: /posadas/apolo/
-shop: Eisenwaren
+shop: hardware
 ---

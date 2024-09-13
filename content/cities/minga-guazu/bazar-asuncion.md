@@ -1,5 +1,5 @@
 ---
 title: "Bazar Asuncion"
 url: /minga-guazu/bazar-asuncion/
-shop: Allgemein
+shop: general
 ---

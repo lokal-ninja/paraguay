@@ -1,5 +1,5 @@
 ---
 title: "Carniceria Tio Tito"
 url: /presidente-franco/carniceria-tio-tito/
-shop: Metzgerei
+shop: carnicero
 ---

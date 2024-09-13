@@ -1,5 +1,5 @@
 ---
 title: "Suiza"
 url: /montecarlo/suiza/
-shop: Schmuck
+shop: joyería
 ---

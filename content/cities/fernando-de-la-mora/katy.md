@@ -1,5 +1,5 @@
 ---
 title: "Katy"
 url: /fernando-de-la-mora/katy/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Re Barato"
 url: /posadas/re-barato/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

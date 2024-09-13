@@ -1,5 +1,5 @@
 ---
 title: "Viky"
 url: /presidente-franco/viky/
-shop: Allgemein
+shop: general
 ---

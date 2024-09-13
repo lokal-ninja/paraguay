@@ -1,5 +1,5 @@
 ---
 title: "Patoty"
 url: /posadas/patoty/
-shop: Garten-Center
+shop: centro de jardinería
 ---

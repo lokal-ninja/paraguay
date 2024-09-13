@@ -1,5 +1,5 @@
 ---
 title: "Invervin"
 url: /aregua/invervin/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

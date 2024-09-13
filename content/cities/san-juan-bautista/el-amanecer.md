@@ -1,5 +1,5 @@
 ---
 title: "El Amanecer"
 url: /san-juan-bautista/el-amanecer/
-shop: Supermarkt
+shop: supermercado
 ---

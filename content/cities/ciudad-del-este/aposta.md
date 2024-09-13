@@ -1,5 +1,5 @@
 ---
 title: "Aposta"
 url: /ciudad-del-este/aposta/
-shop: Allgemein
+shop: general
 ---

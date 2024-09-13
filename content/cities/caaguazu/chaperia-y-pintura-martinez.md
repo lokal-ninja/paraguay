@@ -1,5 +1,5 @@
 ---
 title: "Chaperia y Pintura Martinez"
 url: /caaguazu/chaperia-y-pintura-martinez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

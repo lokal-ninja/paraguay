@@ -1,5 +1,5 @@
 ---
 title: "Mueblería"
 url: /fernando-de-la-mora/muebleria/
-shop: Möbel
+shop: muebles
 ---

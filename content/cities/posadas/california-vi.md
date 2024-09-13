@@ -1,5 +1,5 @@
 ---
 title: "California VI"
 url: /posadas/california-vi/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Libería San José"
 url: /montecarlo/liberia-san-jose/
-shop: Schreibwaren
+shop: material de oficina
 ---

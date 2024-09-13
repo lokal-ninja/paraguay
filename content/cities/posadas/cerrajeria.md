@@ -1,5 +1,5 @@
 ---
 title: "Cerrajería"
 url: /posadas/cerrajeria/
-shop: Schlüsseldienst
+shop: cerrajero
 ---

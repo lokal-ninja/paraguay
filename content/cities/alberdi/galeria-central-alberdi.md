@@ -1,5 +1,5 @@
 ---
 title: "Galeria Central Alberdi"
 url: /alberdi/galeria-central-alberdi/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

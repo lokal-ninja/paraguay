@@ -1,5 +1,5 @@
 ---
 title: "Taller IMEC"
 url: /asuncion/taller-imec-doctor-eduardo-san-martin/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

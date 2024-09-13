@@ -1,5 +1,5 @@
 ---
 title: "Fabrica de Torre"
 url: /ciudad-del-este/fabrica-de-torre/
-shop: Allgemein
+shop: general
 ---

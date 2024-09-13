@@ -1,5 +1,5 @@
 ---
 title: "Febre"
 url: /posadas/febre/
-shop: Reifen
+shop: neumáticos
 ---

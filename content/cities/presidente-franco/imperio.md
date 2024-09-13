@@ -1,5 +1,5 @@
 ---
 title: "Imperio"
 url: /presidente-franco/imperio/
-shop: Allgemein
+shop: general
 ---

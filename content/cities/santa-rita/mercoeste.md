@@ -1,5 +1,5 @@
 ---
 title: "MERCOESTE"
 url: /santa-rita/mercoeste/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yose"
 url: /posadas/yose/
-shop: Großhandel
+shop: mayorista
 ---

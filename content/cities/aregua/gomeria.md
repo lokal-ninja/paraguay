@@ -1,5 +1,5 @@
 ---
 title: "Gomeria"
 url: /aregua/gomeria/
-shop: Reifen
+shop: neumáticos
 ---

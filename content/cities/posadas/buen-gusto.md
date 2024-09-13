@@ -1,5 +1,5 @@
 ---
 title: "Buen Gusto"
 url: /posadas/buen-gusto/
-shop: Spirituosen
+shop: alcohol
 ---

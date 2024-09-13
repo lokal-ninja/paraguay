@@ -1,5 +1,5 @@
 ---
 title: "Extintores"
 url: /presidente-franco/extintores/
-shop: Allgemein
+shop: general
 ---

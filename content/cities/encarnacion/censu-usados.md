@@ -1,5 +1,5 @@
 ---
 title: "Censu Usados"
 url: /encarnacion/censu-usados/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tecnocel"
 url: /posadas/tecnocel/
-shop: Handy
+shop: teléfono móvil
 ---

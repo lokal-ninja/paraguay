@@ -1,5 +1,5 @@
 ---
 title: "Cirfren"
 url: /posadas/cirfren/
-shop: Autoteile
+shop: piezas de automóviles
 ---

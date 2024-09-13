@@ -1,5 +1,5 @@
 ---
 title: "Chiquitita"
 url: /san-lorenzo/chiquitita/
-shop: Allgemein
+shop: general
 ---

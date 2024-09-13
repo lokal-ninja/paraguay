@@ -1,5 +1,5 @@
 ---
 title: "Alborada"
 url: /posadas/alborada/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

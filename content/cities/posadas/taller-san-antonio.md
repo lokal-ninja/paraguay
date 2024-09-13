@@ -1,5 +1,5 @@
 ---
 title: "Taller San Antonio"
 url: /posadas/taller-san-antonio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

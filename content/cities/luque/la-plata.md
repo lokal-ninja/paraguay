@@ -1,5 +1,5 @@
 ---
 title: "La Plata"
 url: /luque/la-plata/
-shop: Leiher
+shop: prestamista
 ---

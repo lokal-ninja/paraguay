@@ -1,5 +1,5 @@
 ---
 title: "Lentes"
 url: /posadas/lentes/
-shop: Optiker
+shop: óptico
 ---

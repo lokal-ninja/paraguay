@@ -1,5 +1,5 @@
 ---
 title: "Free 22"
 url: /posadas/free-22/
-shop: Kiosk
+shop: quiosco
 ---

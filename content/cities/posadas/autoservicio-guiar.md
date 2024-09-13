@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Guiar"
 url: /posadas/autoservicio-guiar/
-shop: Lebensmittel
+shop: comodidad
 ---

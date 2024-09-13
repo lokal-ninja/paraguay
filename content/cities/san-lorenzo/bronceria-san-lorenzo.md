@@ -1,5 +1,5 @@
 ---
 title: "Bronceria San Lorenzo"
 url: /san-lorenzo/bronceria-san-lorenzo/
-shop: Allgemein
+shop: general
 ---

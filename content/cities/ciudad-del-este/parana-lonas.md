@@ -1,5 +1,5 @@
 ---
 title: "Parana Lonas"
 url: /ciudad-del-este/parana-lonas/
-shop: Allgemein
+shop: general
 ---

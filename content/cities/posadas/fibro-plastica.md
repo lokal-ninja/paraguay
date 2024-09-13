@@ -1,5 +1,5 @@
 ---
 title: "Fibro Plástica"
 url: /posadas/fibro-plastica/
-shop: Eisenwaren
+shop: hardware
 ---

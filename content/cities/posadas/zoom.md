@@ -1,5 +1,5 @@
 ---
 title: "Zoom"
 url: /posadas/zoom/
-shop: Kramladen
+shop: tienda de variedades
 ---

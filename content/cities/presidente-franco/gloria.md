@@ -1,5 +1,5 @@
 ---
 title: "Gloria"
 url: /presidente-franco/gloria/
-shop: Eisenwaren
+shop: hardware
 ---

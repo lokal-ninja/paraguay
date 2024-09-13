@@ -1,5 +1,5 @@
 ---
 title: "JC"
 url: /posadas/jc/
-shop: Lebensmittel
+shop: comodidad
 ---

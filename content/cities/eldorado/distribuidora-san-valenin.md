@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora San Valenin"
 url: /eldorado/distribuidora-san-valenin/
-shop: Großhandel
+shop: mayorista
 ---

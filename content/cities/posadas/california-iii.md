@@ -1,5 +1,5 @@
 ---
 title: "California III"
 url: /posadas/california-iii/
-shop: Supermarkt
+shop: supermercado
 ---

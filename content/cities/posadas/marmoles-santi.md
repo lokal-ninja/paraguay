@@ -1,5 +1,5 @@
 ---
 title: "Mármoles Santi"
 url: /posadas/marmoles-santi/
-shop: Baustoffe
+shop: comercio
 ---

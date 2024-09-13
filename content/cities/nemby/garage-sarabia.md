@@ -1,5 +1,5 @@
 ---
 title: "Garage Sarabia"
 url: /nemby/garage-sarabia/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pellizzola"
 url: /posadas/pellizzola/
-shop: Autoteile
+shop: piezas de automóviles
 ---

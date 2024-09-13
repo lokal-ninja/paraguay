@@ -1,5 +1,5 @@
 ---
 title: "Auto Electrica JD"
 url: /presidente-franco/auto-electrica-jd/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Camión de Reparto"
 url: /manora/camion-de-reparto/
-shop: Großhandel
+shop: mayorista
 ---

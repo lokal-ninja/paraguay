@@ -1,5 +1,5 @@
 ---
 title: "Chacabuco"
 url: /posadas/chacabuco/
-shop: Eisenwaren
+shop: hardware
 ---

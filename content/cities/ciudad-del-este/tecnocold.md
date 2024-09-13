@@ -1,5 +1,5 @@
 ---
 title: "Tecnocold"
 url: /ciudad-del-este/tecnocold/
-shop: Allgemein
+shop: general
 ---

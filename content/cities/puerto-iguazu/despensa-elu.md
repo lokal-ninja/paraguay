@@ -1,5 +1,5 @@
 ---
 title: "Despensa Elu"
 url: /puerto-iguazu/despensa-elu/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Macovalle S.A."
 url: /colonia-wanda/macovalle-s-a/
-shop: Eisenwaren
+shop: hardware
 ---

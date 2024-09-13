@@ -1,5 +1,5 @@
 ---
 title: "Garupá"
 url: /candelaria/garupa/
-shop: Möbel
+shop: muebles
 ---

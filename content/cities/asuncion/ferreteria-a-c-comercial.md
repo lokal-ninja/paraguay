@@ -1,5 +1,5 @@
 ---
 title: "Ferretería A.C. Comercial"
 url: /asuncion/ferreteria-a-c-comercial/
-shop: Eisenwaren
+shop: hardware
 ---

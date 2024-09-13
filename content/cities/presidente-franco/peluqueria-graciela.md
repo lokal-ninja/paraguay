@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Graciela"
 url: /presidente-franco/peluqueria-graciela/
-shop: Kleidung
+shop: ropa
 ---

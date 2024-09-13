@@ -1,5 +1,5 @@
 ---
 title: "Gamar"
 url: /ciudad-del-este/gamar/
-shop: Allgemein
+shop: general
 ---

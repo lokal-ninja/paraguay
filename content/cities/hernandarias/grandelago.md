@@ -1,5 +1,5 @@
 ---
 title: "GrandeLago"
 url: /hernandarias/grandelago/
-shop: Metzgerei
+shop: carnicero
 ---

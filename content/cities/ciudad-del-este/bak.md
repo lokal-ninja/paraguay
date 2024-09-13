@@ -1,5 +1,5 @@
 ---
 title: "Bak"
 url: /ciudad-del-este/bak/
-shop: Allgemein
+shop: general
 ---

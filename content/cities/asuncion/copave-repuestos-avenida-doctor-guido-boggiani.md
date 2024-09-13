@@ -1,5 +1,5 @@
 ---
 title: "Copave Repuestos"
 url: /asuncion/copave-repuestos-avenida-doctor-guido-boggiani/
-shop: Autoteile
+shop: piezas de automóviles
 ---

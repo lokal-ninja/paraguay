@@ -1,5 +1,5 @@
 ---
 title: "La Reserva"
 url: /posadas/la-reserva/
-shop: Lebensmittel
+shop: comodidad
 ---

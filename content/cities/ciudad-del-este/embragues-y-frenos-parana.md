@@ -1,5 +1,5 @@
 ---
 title: "Embragues y Frenos Parana"
 url: /ciudad-del-este/embragues-y-frenos-parana/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Punto 10"
 url: /pilar/punto-10/
-shop: Supermarkt
+shop: supermercado
 ---

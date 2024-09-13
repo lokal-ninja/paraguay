@@ -1,5 +1,5 @@
 ---
 title: "Verdagua"
 url: /posadas/verdagua/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Electromecánica Hugo"
 url: /posadas/electromecanica-hugo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

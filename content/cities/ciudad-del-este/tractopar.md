@@ -1,5 +1,5 @@
 ---
 title: "Tractopar"
 url: /ciudad-del-este/tractopar/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lumicity"
 url: /posadas/lumicity/
-shop: Lampen
+shop: lámparas
 ---

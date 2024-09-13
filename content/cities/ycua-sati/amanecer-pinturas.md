@@ -1,5 +1,5 @@
 ---
 title: "Amanecer pinturas"
 url: /ycua-sati/amanecer-pinturas/
-shop: Farben
+shop: pintura
 ---

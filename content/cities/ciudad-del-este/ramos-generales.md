@@ -1,5 +1,5 @@
 ---
 title: "Ramos Generales"
 url: /ciudad-del-este/ramos-generales/
-shop: Allgemein
+shop: general
 ---

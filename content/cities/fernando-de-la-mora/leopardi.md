@@ -1,5 +1,5 @@
 ---
 title: "Leopardi"
 url: /fernando-de-la-mora/leopardi/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

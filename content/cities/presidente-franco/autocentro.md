@@ -1,5 +1,5 @@
 ---
 title: "Autocentro"
 url: /presidente-franco/autocentro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

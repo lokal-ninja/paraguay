@@ -1,5 +1,5 @@
 ---
 title: "Casa Becker"
 url: /wanda/casa-becker/
-shop: Autoteile
+shop: piezas de automóviles
 ---

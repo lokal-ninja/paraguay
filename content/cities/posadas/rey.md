@@ -1,5 +1,5 @@
 ---
 title: "Rey"
 url: /posadas/rey/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

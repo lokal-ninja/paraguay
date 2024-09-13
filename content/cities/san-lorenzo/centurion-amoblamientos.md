@@ -1,5 +1,5 @@
 ---
 title: "Centurion Amoblamientos"
 url: /san-lorenzo/centurion-amoblamientos/
-shop: Allgemein
+shop: general
 ---

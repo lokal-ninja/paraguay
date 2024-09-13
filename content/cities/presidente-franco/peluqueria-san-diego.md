@@ -1,5 +1,5 @@
 ---
 title: "Peluquería San Diego"
 url: /presidente-franco/peluqueria-san-diego/
-shop: Friseur
+shop: peluquería
 ---

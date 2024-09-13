@@ -1,5 +1,5 @@
 ---
 title: "Tati Vidrios"
 url: /fernando-de-la-mora/tati-vidrios/
-shop: Allgemein
+shop: general
 ---

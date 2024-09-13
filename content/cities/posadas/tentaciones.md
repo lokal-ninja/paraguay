@@ -1,5 +1,5 @@
 ---
 title: "Tentaciones"
 url: /posadas/tentaciones/
-shop: Lebensmittel
+shop: comodidad
 ---

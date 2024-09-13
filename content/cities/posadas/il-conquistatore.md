@@ -1,5 +1,5 @@
 ---
 title: "Il Conquistatore"
 url: /posadas/il-conquistatore/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Limpiomar"
 url: /wanda/limpiomar/
-shop: Allgemein
+shop: general
 ---

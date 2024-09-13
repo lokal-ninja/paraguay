@@ -1,5 +1,5 @@
 ---
 title: "Gomería"
 url: /posadas/gomeria-avenida-cocomarola/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

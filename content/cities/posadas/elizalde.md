@@ -1,5 +1,5 @@
 ---
 title: "Elizalde"
 url: /posadas/elizalde/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

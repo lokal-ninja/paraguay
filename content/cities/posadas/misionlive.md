@@ -1,5 +1,5 @@
 ---
 title: "MisionLive"
 url: /posadas/misionlive/
-shop: Kramladen
+shop: tienda de variedades
 ---

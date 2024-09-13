@@ -1,5 +1,5 @@
 ---
 title: "Posadas"
 url: /posadas/posadas-colon/
-shop: Schreibwaren
+shop: material de oficina
 ---

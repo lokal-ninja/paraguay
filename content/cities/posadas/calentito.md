@@ -1,5 +1,5 @@
 ---
 title: "Calentito"
 url: /posadas/calentito/
-shop: Bäckerei
+shop: panadería
 ---

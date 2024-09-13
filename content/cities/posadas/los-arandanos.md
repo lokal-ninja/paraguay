@@ -1,5 +1,5 @@
 ---
 title: "Los Arándanos"
 url: /posadas/los-arandanos/
-shop: Garten-Center
+shop: centro de jardinería
 ---

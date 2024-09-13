@@ -1,5 +1,5 @@
 ---
 title: "Rojita"
 url: /posadas/rojita/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

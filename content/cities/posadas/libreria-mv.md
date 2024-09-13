@@ -1,5 +1,5 @@
 ---
 title: "Librería MV"
 url: /posadas/libreria-mv/
-shop: Schreibwaren
+shop: material de oficina
 ---

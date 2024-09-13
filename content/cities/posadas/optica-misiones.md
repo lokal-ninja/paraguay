@@ -1,5 +1,5 @@
 ---
 title: "Óptica Misiones"
 url: /posadas/optica-misiones/
-shop: Optiker
+shop: óptico
 ---

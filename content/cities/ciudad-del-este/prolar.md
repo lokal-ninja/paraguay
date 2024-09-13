@@ -1,5 +1,5 @@
 ---
 title: "Prolar"
 url: /ciudad-del-este/prolar/
-shop: Allgemein
+shop: general
 ---

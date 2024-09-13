@@ -1,5 +1,5 @@
 ---
 title: "Talabartería El Luchador"
 url: /posadas/talabarteria-el-luchador/
-shop: Leder
+shop: cuero
 ---

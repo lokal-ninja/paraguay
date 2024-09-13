@@ -1,5 +1,5 @@
 ---
 title: "Media Web"
 url: /fernando-de-la-mora/media-web/
-shop: Autohaus
+shop: coche
 ---

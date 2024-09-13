@@ -1,5 +1,5 @@
 ---
 title: "Guille"
 url: /ciudad-del-este/guille/
-shop: Motorrad
+shop: motocicleta
 ---

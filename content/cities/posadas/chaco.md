@@ -1,5 +1,5 @@
 ---
 title: "Chaco"
 url: /posadas/chaco/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Aljibe"
 url: /posadas/el-aljibe/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

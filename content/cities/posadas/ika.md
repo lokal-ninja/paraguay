@@ -1,5 +1,5 @@
 ---
 title: "Ika"
 url: /posadas/ika/
-shop: Kleidung
+shop: ropa
 ---

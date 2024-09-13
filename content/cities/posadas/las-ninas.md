@@ -1,5 +1,5 @@
 ---
 title: "Las Niñas"
 url: /posadas/las-ninas/
-shop: Supermarkt
+shop: supermercado
 ---

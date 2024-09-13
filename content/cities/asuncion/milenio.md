@@ -1,5 +1,5 @@
 ---
 title: "Milenio"
 url: /asuncion/milenio/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

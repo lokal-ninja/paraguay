@@ -1,5 +1,5 @@
 ---
 title: "Melliz"
 url: /ciudad-del-este/melliz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rey Leon"
 url: /presidente-franco/rey-leon/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

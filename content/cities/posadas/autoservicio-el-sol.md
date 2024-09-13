@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio El Sol"
 url: /posadas/autoservicio-el-sol/
-shop: Lebensmittel
+shop: comodidad
 ---

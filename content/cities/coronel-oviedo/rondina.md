@@ -1,5 +1,5 @@
 ---
 title: "Rondina"
 url: /coronel-oviedo/rondina/
-shop: Kleidung
+shop: ropa
 ---

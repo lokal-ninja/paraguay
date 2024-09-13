@@ -1,5 +1,5 @@
 ---
 title: "Personal"
 url: /candelaria/personal/
-shop: Handy
+shop: teléfono móvil
 ---

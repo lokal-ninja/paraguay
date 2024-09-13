@@ -1,5 +1,5 @@
 ---
 title: "Guido"
 url: /santa-ana/guido/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

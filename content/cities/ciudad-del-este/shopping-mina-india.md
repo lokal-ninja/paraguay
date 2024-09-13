@@ -1,5 +1,5 @@
 ---
 title: "Shopping Mína India"
 url: /ciudad-del-este/shopping-mina-india/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

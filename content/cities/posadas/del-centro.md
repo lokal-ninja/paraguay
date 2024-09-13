@@ -1,5 +1,5 @@
 ---
 title: "Del Centro"
 url: /posadas/del-centro/
-shop: Farben
+shop: pintura
 ---

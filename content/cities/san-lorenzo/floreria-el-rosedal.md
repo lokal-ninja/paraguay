@@ -1,5 +1,5 @@
 ---
 title: "Floreria El Rosedal"
 url: /san-lorenzo/floreria-el-rosedal/
-shop: Blumen
+shop: floristería
 ---

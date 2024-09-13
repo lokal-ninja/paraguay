@@ -1,5 +1,5 @@
 ---
 title: "Stock Brasilia 2"
 url: /asuncion/stock-brasilia-2/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "San Jorge"
 url: /ciudad-del-este/san-jorge/
-shop: Autoteile
+shop: piezas de automóviles
 ---

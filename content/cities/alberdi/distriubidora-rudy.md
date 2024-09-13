@@ -1,5 +1,5 @@
 ---
 title: "Distriubidora Rudy"
 url: /alberdi/distriubidora-rudy/
-shop: Supermarkt
+shop: supermercado
 ---

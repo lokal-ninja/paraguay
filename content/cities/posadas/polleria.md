@@ -1,5 +1,5 @@
 ---
 title: "Pollería"
 url: /posadas/polleria/
-shop: Metzgerei
+shop: carnicero
 ---

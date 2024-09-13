@@ -1,5 +1,5 @@
 ---
 title: "Alcimóvil"
 url: /hernandarias/alcimovil/
-shop: Autoteile
+shop: piezas de automóviles
 ---

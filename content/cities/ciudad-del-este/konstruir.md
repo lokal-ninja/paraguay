@@ -1,5 +1,5 @@
 ---
 title: "Konstruir"
 url: /ciudad-del-este/konstruir/
-shop: Badezimmer
+shop: cuarto de baño
 ---

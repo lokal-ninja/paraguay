@@ -1,5 +1,5 @@
 ---
 title: "Chamorro Pinturas"
 url: /posadas/chamorro-pinturas/
-shop: Farben
+shop: pintura
 ---

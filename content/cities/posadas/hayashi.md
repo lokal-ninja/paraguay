@@ -1,5 +1,5 @@
 ---
 title: "Hayashi"
 url: /posadas/hayashi/
-shop: Supermarkt
+shop: supermercado
 ---

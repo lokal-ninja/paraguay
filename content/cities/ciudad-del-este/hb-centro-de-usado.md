@@ -1,5 +1,5 @@
 ---
 title: "HB Centro de Usado"
 url: /ciudad-del-este/hb-centro-de-usado/
-shop: Allgemein
+shop: general
 ---

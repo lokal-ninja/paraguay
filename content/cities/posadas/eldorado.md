@@ -1,5 +1,5 @@
 ---
 title: "Eldorado"
 url: /posadas/eldorado/
-shop: Möbel
+shop: muebles
 ---

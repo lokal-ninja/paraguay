@@ -1,5 +1,5 @@
 ---
 title: "Parque Serenidad San Lorenzo"
 url: /san-lorenzo/parque-serenidad-san-lorenzo/
-shop: Bestattungen
+shop: directores de funerarias
 ---

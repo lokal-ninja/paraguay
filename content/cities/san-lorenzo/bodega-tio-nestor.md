@@ -1,5 +1,5 @@
 ---
 title: "Bodega Tio Nestor"
 url: /san-lorenzo/bodega-tio-nestor/
-shop: Lebensmittel
+shop: comodidad
 ---

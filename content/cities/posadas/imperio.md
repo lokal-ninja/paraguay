@@ -1,5 +1,5 @@
 ---
 title: "Imperio"
 url: /posadas/imperio/
-shop: Schreibwaren
+shop: material de oficina
 ---

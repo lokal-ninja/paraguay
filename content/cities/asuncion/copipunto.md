@@ -1,5 +1,5 @@
 ---
 title: "Copipunto"
 url: /asuncion/copipunto/
-shop: Kopieren
+shop: copyshop
 ---

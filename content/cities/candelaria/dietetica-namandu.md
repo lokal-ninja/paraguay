@@ -1,5 +1,5 @@
 ---
 title: "Dietetica Ñamandu"
 url: /candelaria/dietetica-namandu/
-shop: Lebensmittel
+shop: comodidad
 ---

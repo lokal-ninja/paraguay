@@ -1,5 +1,5 @@
 ---
 title: "Carlāo"
 url: /ciudad-del-este/carlao/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

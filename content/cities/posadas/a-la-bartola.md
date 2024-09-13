@@ -1,5 +1,5 @@
 ---
 title: "A la Bartola"
 url: /posadas/a-la-bartola/
-shop: Kiosk
+shop: quiosco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miguelito"
 url: /posadas/miguelito-avenida-chacabuco/
-shop: Lebensmittel
+shop: comodidad
 ---

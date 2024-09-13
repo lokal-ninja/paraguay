@@ -1,5 +1,5 @@
 ---
 title: "SarkoDesign"
 url: /posadas/sarkodesign/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

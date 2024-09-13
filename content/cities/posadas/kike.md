@@ -1,5 +1,5 @@
 ---
 title: "Kike"
 url: /posadas/kike/
-shop: Eisenwaren
+shop: hardware
 ---

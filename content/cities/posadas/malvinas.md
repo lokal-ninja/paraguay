@@ -1,5 +1,5 @@
 ---
 title: "Malvinas"
 url: /posadas/malvinas/
-shop: Eisenwaren
+shop: hardware
 ---

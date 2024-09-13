@@ -1,5 +1,5 @@
 ---
 title: "Silver"
 url: /posadas/silver/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ganser"
 url: /posadas/ganser/
-shop: Fahrrad
+shop: bicicleta
 ---

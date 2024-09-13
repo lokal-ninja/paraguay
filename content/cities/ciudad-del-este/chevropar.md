@@ -1,5 +1,5 @@
 ---
 title: "Chevropar"
 url: /ciudad-del-este/chevropar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

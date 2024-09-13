@@ -1,5 +1,5 @@
 ---
 title: "Bodega Nico"
 url: /luque/bodega-nico/
-shop: Lebensmittel
+shop: comodidad
 ---

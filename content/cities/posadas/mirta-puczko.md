@@ -1,5 +1,5 @@
 ---
 title: "Mirta Puczko"
 url: /posadas/mirta-puczko/
-shop: Optiker
+shop: óptico
 ---

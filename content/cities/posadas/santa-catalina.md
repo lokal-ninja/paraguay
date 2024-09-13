@@ -1,5 +1,5 @@
 ---
 title: "Santa Catalina"
 url: /posadas/santa-catalina/
-shop: Autoteile
+shop: piezas de automóviles
 ---

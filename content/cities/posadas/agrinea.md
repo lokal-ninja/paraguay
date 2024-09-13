@@ -1,5 +1,5 @@
 ---
 title: "Agrinea"
 url: /posadas/agrinea/
-shop: Großhandel
+shop: mayorista
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Arco"
 url: /candelaria/el-arco/
-shop: Supermarkt
+shop: supermercado
 ---

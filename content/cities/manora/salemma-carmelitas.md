@@ -1,5 +1,5 @@
 ---
 title: "Salemma Carmelitas"
 url: /manora/salemma-carmelitas/
-shop: Supermarkt
+shop: supermercado
 ---

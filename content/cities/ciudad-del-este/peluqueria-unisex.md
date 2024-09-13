@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Unisex"
 url: /ciudad-del-este/peluqueria-unisex/
-shop: Friseur
+shop: peluquería
 ---

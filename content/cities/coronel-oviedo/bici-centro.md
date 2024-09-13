@@ -1,5 +1,5 @@
 ---
 title: "Bici Centro"
 url: /coronel-oviedo/bici-centro/
-shop: Fahrrad
+shop: bicicleta
 ---

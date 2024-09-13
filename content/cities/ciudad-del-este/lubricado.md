@@ -1,5 +1,5 @@
 ---
 title: "Lubricado"
 url: /ciudad-del-este/lubricado/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

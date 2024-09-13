@@ -1,5 +1,5 @@
 ---
 title: "La Ruta"
 url: /asuncion/la-ruta/
-shop: Autoteile
+shop: piezas de automóviles
 ---

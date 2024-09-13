@@ -1,5 +1,5 @@
 ---
 title: "Stock"
 url: /capiata/stock/
-shop: Supermarkt
+shop: supermercado
 ---

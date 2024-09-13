@@ -1,5 +1,5 @@
 ---
 title: "Polo"
 url: /posadas/polo/
-shop: Baustoffe
+shop: comercio
 ---

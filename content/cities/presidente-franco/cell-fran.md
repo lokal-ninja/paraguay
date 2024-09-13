@@ -1,5 +1,5 @@
 ---
 title: "Cell Fran"
 url: /presidente-franco/cell-fran/
-shop: Allgemein
+shop: general
 ---

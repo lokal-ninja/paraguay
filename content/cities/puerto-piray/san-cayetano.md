@@ -1,5 +1,5 @@
 ---
 title: "San Cayetano"
 url: /puerto-piray/san-cayetano/
-shop: Metzgerei
+shop: carnicero
 ---

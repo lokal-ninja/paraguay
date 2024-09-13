@@ -1,5 +1,5 @@
 ---
 title: "Despensa Dieguito"
 url: /ciudad-del-este/despensa-dieguito/
-shop: Lebensmittel
+shop: comodidad
 ---

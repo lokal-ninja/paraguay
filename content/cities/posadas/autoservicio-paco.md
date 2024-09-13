@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Paco"
 url: /posadas/autoservicio-paco/
-shop: Lebensmittel
+shop: comodidad
 ---

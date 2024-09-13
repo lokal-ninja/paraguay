@@ -1,5 +1,5 @@
 ---
 title: "Puerto Palos"
 url: /posadas/puerto-palos/
-shop: Outdoor
+shop: exterior
 ---

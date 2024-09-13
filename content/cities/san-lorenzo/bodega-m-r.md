@@ -1,5 +1,5 @@
 ---
 title: "Bodega M.R"
 url: /san-lorenzo/bodega-m-r/
-shop: Allgemein
+shop: general
 ---

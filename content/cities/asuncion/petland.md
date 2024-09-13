@@ -1,5 +1,5 @@
 ---
 title: "Petland"
 url: /asuncion/petland/
-shop: Tiere
+shop: mascotas
 ---

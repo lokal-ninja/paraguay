@@ -1,5 +1,5 @@
 ---
 title: "Bicho's Cell"
 url: /fernando-de-la-mora/bichos-cell/
-shop: Kramladen
+shop: tienda de variedades
 ---

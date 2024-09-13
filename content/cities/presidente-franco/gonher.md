@@ -1,5 +1,5 @@
 ---
 title: "Gonher"
 url: /presidente-franco/gonher/
-shop: Allgemein
+shop: general
 ---

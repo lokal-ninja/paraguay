@@ -1,5 +1,5 @@
 ---
 title: "Repuestos"
 url: /presidente-franco/repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Despensa Mirian"
 url: /encarnacion/despensa-mirian/
-shop: Supermarkt
+shop: supermercado
 ---

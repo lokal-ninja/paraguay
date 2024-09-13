@@ -1,5 +1,5 @@
 ---
 title: "Passionaria"
 url: /posadas/passionaria/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Mago Audio Car"
 url: /posadas/el-mago-audio-car/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

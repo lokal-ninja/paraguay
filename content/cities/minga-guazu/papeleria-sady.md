@@ -1,5 +1,5 @@
 ---
 title: "Papeleria Sady"
 url: /minga-guazu/papeleria-sady/
-shop: Schreibwaren
+shop: material de oficina
 ---

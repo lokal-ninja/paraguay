@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Alejandro"
 url: /puerto-rico/distribuidora-alejandro/
-shop: Großhandel
+shop: mayorista
 ---

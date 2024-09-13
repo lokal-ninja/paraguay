@@ -1,5 +1,5 @@
 ---
 title: "Márquez"
 url: /posadas/marquez/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Energy Drugstore"
 url: /luque/energy-drugstore/
-shop: Drogerie
+shop: farmacia
 ---

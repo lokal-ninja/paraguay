@@ -1,5 +1,5 @@
 ---
 title: "JJM"
 url: /posadas/jjm/
-shop: Metzgerei
+shop: carnicero
 ---

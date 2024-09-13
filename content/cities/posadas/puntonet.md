@@ -1,5 +1,5 @@
 ---
 title: "PuntoNet"
 url: /posadas/puntonet/
-shop: Computer
+shop: ordenador
 ---

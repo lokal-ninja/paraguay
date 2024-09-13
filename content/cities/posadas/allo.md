@@ -1,5 +1,5 @@
 ---
 title: "Alló"
 url: /posadas/allo/
-shop: Kleidung
+shop: ropa
 ---

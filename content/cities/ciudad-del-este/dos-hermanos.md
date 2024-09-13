@@ -1,5 +1,5 @@
 ---
 title: "Dos Hermanos"
 url: /ciudad-del-este/dos-hermanos/
-shop: Allgemein
+shop: general
 ---

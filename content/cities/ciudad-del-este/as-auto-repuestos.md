@@ -1,5 +1,5 @@
 ---
 title: "As Auto Repuestos"
 url: /ciudad-del-este/as-auto-repuestos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

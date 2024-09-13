@@ -1,5 +1,5 @@
 ---
 title: "Sosa"
 url: /ciudad-del-este/sosa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Saspy Express"
 url: /pedro-juan-caballero/saspy-express/
-shop: Allgemein
+shop: general
 ---

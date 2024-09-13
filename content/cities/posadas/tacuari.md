@@ -1,5 +1,5 @@
 ---
 title: "Tacuarí"
 url: /posadas/tacuari/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Suprimaq"
 url: /ciudad-del-este/suprimaq/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petri"
 url: /posadas/petri/
-shop: Bäckerei
+shop: panadería
 ---

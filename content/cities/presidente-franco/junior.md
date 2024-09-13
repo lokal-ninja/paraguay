@@ -1,5 +1,5 @@
 ---
 title: "Junior"
 url: /presidente-franco/junior/
-shop: Bäckerei
+shop: panadería
 ---

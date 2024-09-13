@@ -1,5 +1,5 @@
 ---
 title: "Refrigerar Martines SRL"
 url: /posadas/refrigerar-martines-srl/
-shop: Allgemein
+shop: general
 ---

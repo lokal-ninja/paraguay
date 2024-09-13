@@ -1,5 +1,5 @@
 ---
 title: "Pollería Que Rico"
 url: /wanda/polleria-que-rico/
-shop: Metzgerei
+shop: carnicero
 ---

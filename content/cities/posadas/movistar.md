@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /posadas/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

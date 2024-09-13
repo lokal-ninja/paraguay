@@ -1,5 +1,5 @@
 ---
 title: "El Tata"
 url: /puerto-leoni/el-tata/
-shop: Lebensmittel
+shop: comodidad
 ---

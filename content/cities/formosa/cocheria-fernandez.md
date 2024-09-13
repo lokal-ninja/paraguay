@@ -1,5 +1,5 @@
 ---
 title: "Cochería Fernandez"
 url: /formosa/cocheria-fernandez/
-shop: Bestattungen
+shop: directores de funerarias
 ---

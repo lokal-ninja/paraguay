@@ -1,5 +1,5 @@
 ---
 title: "Florería Colón"
 url: /posadas/floreria-colon/
-shop: Blumen
+shop: floristería
 ---

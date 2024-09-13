@@ -1,5 +1,5 @@
 ---
 title: "Lubrisur"
 url: /san-lorenzo/lubrisur/
-shop: Autoteile
+shop: piezas de automóviles
 ---

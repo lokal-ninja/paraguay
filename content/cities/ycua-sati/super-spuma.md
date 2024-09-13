@@ -1,5 +1,5 @@
 ---
 title: "Super Spuma"
 url: /ycua-sati/super-spuma/
-shop: Betten
+shop: cama
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mandalas"
 url: /posadas/mandalas/
-shop: Schreibwaren
+shop: material de oficina
 ---

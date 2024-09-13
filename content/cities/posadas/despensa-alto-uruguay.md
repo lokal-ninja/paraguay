@@ -1,5 +1,5 @@
 ---
 title: "Despensa Alto Uruguay"
 url: /posadas/despensa-alto-uruguay/
-shop: Lebensmittel
+shop: comodidad
 ---

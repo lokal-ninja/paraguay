@@ -1,5 +1,5 @@
 ---
 title: "Mil Colores"
 url: /posadas/mil-colores/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rectificaciones Abente"
 url: /posadas/rectificaciones-abente/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

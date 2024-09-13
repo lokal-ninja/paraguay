@@ -1,5 +1,5 @@
 ---
 title: "Gomería"
 url: /el-alcazar/gomeria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

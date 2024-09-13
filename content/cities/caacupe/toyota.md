@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /caacupe/toyota/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

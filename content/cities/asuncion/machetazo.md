@@ -1,5 +1,5 @@
 ---
 title: "Machetazo"
 url: /asuncion/machetazo/
-shop: Supermarkt
+shop: supermercado
 ---

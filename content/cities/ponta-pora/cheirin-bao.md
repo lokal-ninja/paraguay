@@ -1,5 +1,5 @@
 ---
 title: "Cheirin Bão"
 url: /ponta-pora/cheirin-bao/
-shop: Kaffee
+shop: café
 ---

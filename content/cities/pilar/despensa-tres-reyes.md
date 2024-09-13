@@ -1,5 +1,5 @@
 ---
 title: "Despensa Tres Reyes"
 url: /pilar/despensa-tres-reyes/
-shop: Dorfladen
+shop: tienda rural
 ---

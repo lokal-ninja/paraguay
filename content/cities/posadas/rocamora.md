@@ -1,5 +1,5 @@
 ---
 title: "Rocamora"
 url: /posadas/rocamora/
-shop: Metzgerei
+shop: carnicero
 ---

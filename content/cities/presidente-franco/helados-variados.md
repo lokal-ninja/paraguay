@@ -1,5 +1,5 @@
 ---
 title: "Helados Variados"
 url: /presidente-franco/helados-variados/
-shop: Allgemein
+shop: general
 ---

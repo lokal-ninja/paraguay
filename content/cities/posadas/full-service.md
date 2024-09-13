@@ -1,5 +1,5 @@
 ---
 title: "Full Service"
 url: /posadas/full-service/
-shop: Schreibwaren
+shop: material de oficina
 ---

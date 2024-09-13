@@ -1,5 +1,5 @@
 ---
 title: "Manny"
 url: /posadas/manny/
-shop: Allgemein
+shop: general
 ---

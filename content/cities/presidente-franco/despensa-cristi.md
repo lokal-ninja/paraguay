@@ -1,5 +1,5 @@
 ---
 title: "Despensa Cristi"
 url: /presidente-franco/despensa-cristi/
-shop: Allgemein
+shop: general
 ---

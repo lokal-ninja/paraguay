@@ -1,5 +1,5 @@
 ---
 title: "Sabella"
 url: /ycua-sati/sabella/
-shop: Kosmetik
+shop: cosméticos
 ---

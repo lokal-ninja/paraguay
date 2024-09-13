@@ -1,5 +1,5 @@
 ---
 title: "Piqueno"
 url: /ciudad-del-este/piqueno/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Dibujante"
 url: /posadas/el-dibujante/
-shop: Schreibwaren
+shop: material de oficina
 ---

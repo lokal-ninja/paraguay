@@ -1,5 +1,5 @@
 ---
 title: "Cotillon Florida"
 url: /ciudad-del-este/cotillon-florida/
-shop: Blumen
+shop: floristería
 ---

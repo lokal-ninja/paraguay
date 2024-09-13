@@ -1,5 +1,5 @@
 ---
 title: "Bea Ars"
 url: /posadas/bea-ars/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autologic S.A."
 url: /asuncion/autologic-s-a/
-shop: Autohaus
+shop: coche
 ---

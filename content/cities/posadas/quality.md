@@ -1,5 +1,5 @@
 ---
 title: "Quality"
 url: /posadas/quality/
-shop: Allgemein
+shop: general
 ---

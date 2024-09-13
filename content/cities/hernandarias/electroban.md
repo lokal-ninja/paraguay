@@ -1,5 +1,5 @@
 ---
 title: "Electroban"
 url: /hernandarias/electroban/
-shop: Allgemein
+shop: general
 ---

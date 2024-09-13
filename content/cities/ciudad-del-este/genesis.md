@@ -1,5 +1,5 @@
 ---
 title: "Genesis"
 url: /ciudad-del-este/genesis/
-shop: Allgemein
+shop: general
 ---

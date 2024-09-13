@@ -1,5 +1,5 @@
 ---
 title: "Dulcilandia"
 url: /posadas/dulcilandia/
-shop: Lebensmittel
+shop: comodidad
 ---

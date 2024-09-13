@@ -1,5 +1,5 @@
 ---
 title: "Changomas"
 url: /clorinda/changomas/
-shop: Supermarkt
+shop: supermercado
 ---

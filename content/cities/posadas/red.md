@@ -1,5 +1,5 @@
 ---
 title: "Red"
 url: /posadas/red/
-shop: Schreibwaren
+shop: material de oficina
 ---

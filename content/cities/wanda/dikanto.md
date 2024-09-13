@@ -1,5 +1,5 @@
 ---
 title: "Dikanto"
 url: /wanda/dikanto/
-shop: Kleidung
+shop: ropa
 ---

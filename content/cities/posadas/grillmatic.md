@@ -1,5 +1,5 @@
 ---
 title: "Grillmatic"
 url: /posadas/grillmatic/
-shop: Allgemein
+shop: general
 ---

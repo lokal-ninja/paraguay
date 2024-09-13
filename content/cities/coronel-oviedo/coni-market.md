@@ -1,5 +1,5 @@
 ---
 title: "Coni Market"
 url: /coronel-oviedo/coni-market/
-shop: Supermarkt
+shop: supermercado
 ---

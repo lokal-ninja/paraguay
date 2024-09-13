@@ -1,5 +1,5 @@
 ---
 title: "Hola Bebé"
 url: /asuncion/hola-bebe/
-shop: Babysachen
+shop: artículos para bebés
 ---

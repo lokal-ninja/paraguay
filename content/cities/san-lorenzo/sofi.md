@@ -1,5 +1,5 @@
 ---
 title: "Sofi"
 url: /san-lorenzo/sofi/
-shop: Kosmetik
+shop: cosméticos
 ---

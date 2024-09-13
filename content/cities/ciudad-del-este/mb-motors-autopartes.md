@@ -1,5 +1,5 @@
 ---
 title: "MB Motors AUTOPARTES"
 url: /ciudad-del-este/mb-motors-autopartes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

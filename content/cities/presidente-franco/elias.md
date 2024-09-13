@@ -1,5 +1,5 @@
 ---
 title: "Elias"
 url: /presidente-franco/elias/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

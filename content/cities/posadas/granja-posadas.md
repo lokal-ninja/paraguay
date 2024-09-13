@@ -1,5 +1,5 @@
 ---
 title: "Granja Posadas"
 url: /posadas/granja-posadas/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tito Automotores"
 url: /puerto-esperanza/tito-automotores/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fito"
 url: /posadas/fito/
-shop: Schlüsseldienst
+shop: cerrajero
 ---

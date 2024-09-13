@@ -1,5 +1,5 @@
 ---
 title: "Super Agotat"
 url: /puerto-esperanza/super-agotat/
-shop: Supermarkt
+shop: supermercado
 ---

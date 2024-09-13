@@ -1,5 +1,5 @@
 ---
 title: "Fredy Electromecánica"
 url: /posadas/fredy-electromecanica/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

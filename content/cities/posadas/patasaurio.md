@@ -1,5 +1,5 @@
 ---
 title: "Patasaurio"
 url: /posadas/patasaurio/
-shop: Kleidung
+shop: ropa
 ---

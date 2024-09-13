@@ -1,5 +1,5 @@
 ---
 title: "Chacomer"
 url: /presidente-franco/chacomer/
-shop: Motorrad
+shop: motocicleta
 ---

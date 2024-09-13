@@ -1,5 +1,5 @@
 ---
 title: "Auto Repuestos Monday"
 url: /presidente-franco/auto-repuestos-monday/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

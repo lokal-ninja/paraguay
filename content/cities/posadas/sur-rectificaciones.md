@@ -1,5 +1,5 @@
 ---
 title: "Sur Rectificaciones"
 url: /posadas/sur-rectificaciones/
-shop: Autoteile
+shop: piezas de automóviles
 ---

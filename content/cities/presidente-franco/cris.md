@@ -1,5 +1,5 @@
 ---
 title: "Cris"
 url: /presidente-franco/cris/
-shop: Elektronik
+shop: electrónica
 ---

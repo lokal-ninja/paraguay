@@ -1,5 +1,5 @@
 ---
 title: "Miriamar"
 url: /hernandarias/miriamar/
-shop: Allgemein
+shop: general
 ---

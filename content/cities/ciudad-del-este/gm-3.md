@@ -1,5 +1,5 @@
 ---
 title: "GM 3"
 url: /ciudad-del-este/gm-3/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Librería"
 url: /posadas/libreria/
-shop: Schreibwaren
+shop: material de oficina
 ---

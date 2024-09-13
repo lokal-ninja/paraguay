@@ -1,5 +1,5 @@
 ---
 title: "Morena"
 url: /posadas/morena/
-shop: Möbel
+shop: muebles
 ---

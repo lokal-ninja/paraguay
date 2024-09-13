@@ -1,5 +1,5 @@
 ---
 title: "Betania"
 url: /posadas/betania/
-shop: Kiosk
+shop: quiosco
 ---

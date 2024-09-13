@@ -1,5 +1,5 @@
 ---
 title: "Atlas Grupo Editorial"
 url: /ycua-sati/atlas-grupo-editorial/
-shop: Bücher
+shop: libros
 ---

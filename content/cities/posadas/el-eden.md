@@ -1,5 +1,5 @@
 ---
 title: "El Edén"
 url: /posadas/el-eden/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motech"
 url: /ciudad-del-este/motech/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

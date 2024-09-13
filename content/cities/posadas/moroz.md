@@ -1,5 +1,5 @@
 ---
 title: "Moroz"
 url: /posadas/moroz/
-shop: Autohaus
+shop: coche
 ---

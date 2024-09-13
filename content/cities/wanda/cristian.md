@@ -1,5 +1,5 @@
 ---
 title: "Cristian"
 url: /wanda/cristian/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

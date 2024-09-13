@@ -1,5 +1,5 @@
 ---
 title: "Juan Ruiz"
 url: /posadas/juan-ruiz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

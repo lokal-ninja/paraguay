@@ -1,5 +1,5 @@
 ---
 title: "Marisol"
 url: /posadas/marisol/
-shop: Friseur
+shop: peluquería
 ---

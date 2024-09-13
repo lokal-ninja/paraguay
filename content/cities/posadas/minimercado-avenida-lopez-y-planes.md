@@ -1,5 +1,5 @@
 ---
 title: "Minimercado"
 url: /posadas/minimercado-avenida-lopez-y-planes/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldos"
 url: /posadas/aldos/
-shop: Schreibwaren
+shop: material de oficina
 ---

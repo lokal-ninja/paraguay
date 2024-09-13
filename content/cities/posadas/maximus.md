@@ -1,5 +1,5 @@
 ---
 title: "Maximus"
 url: /posadas/maximus/
-shop: Handy
+shop: teléfono móvil
 ---

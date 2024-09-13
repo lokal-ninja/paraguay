@@ -1,5 +1,5 @@
 ---
 title: "Mecatec"
 url: /posadas/mecatec/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

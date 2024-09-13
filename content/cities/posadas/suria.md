@@ -1,5 +1,5 @@
 ---
 title: "Suria"
 url: /posadas/suria/
-shop: Modehaus
+shop: tienda
 ---

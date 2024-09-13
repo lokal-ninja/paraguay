@@ -1,5 +1,5 @@
 ---
 title: "Elvacel"
 url: /ycua-sati/elvacel/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cardón"
 url: /encarnacion/cardon/
-shop: Kleidung
+shop: ropa
 ---

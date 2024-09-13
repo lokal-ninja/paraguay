@@ -1,5 +1,5 @@
 ---
 title: "Axion"
 url: /posadas/axion/
-shop: Allgemein
+shop: general
 ---

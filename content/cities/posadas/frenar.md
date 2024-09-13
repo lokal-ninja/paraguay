@@ -1,5 +1,5 @@
 ---
 title: "Frenar"
 url: /posadas/frenar/
-shop: Autoteile
+shop: piezas de automóviles
 ---

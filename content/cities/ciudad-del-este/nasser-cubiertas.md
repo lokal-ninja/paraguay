@@ -1,5 +1,5 @@
 ---
 title: "Nasser Cubiertas"
 url: /ciudad-del-este/nasser-cubiertas/
-shop: Reifen
+shop: neumáticos
 ---

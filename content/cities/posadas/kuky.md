@@ -1,5 +1,5 @@
 ---
 title: "Kuky"
 url: /posadas/kuky/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

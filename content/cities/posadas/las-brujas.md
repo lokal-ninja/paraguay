@@ -1,5 +1,5 @@
 ---
 title: "Las Brujas"
 url: /posadas/las-brujas/
-shop: Supermarkt
+shop: supermercado
 ---

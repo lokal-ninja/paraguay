@@ -1,5 +1,5 @@
 ---
 title: "Euro Camiones"
 url: /asuncion/euro-camiones/
-shop: Allgemein
+shop: general
 ---

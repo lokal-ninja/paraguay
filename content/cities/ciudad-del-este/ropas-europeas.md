@@ -1,5 +1,5 @@
 ---
 title: "Ropas Europeas"
 url: /ciudad-del-este/ropas-europeas/
-shop: Kleidung
+shop: ropa
 ---

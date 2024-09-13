@@ -1,5 +1,5 @@
 ---
 title: "Don Emilio"
 url: /posadas/don-emilio/
-shop: Baustoffe
+shop: comercio
 ---

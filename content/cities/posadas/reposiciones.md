@@ -1,5 +1,5 @@
 ---
 title: "Reposiciones"
 url: /posadas/reposiciones/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eldorado"
 url: /eldorado/eldorado/
-shop: Eisenwaren
+shop: hardware
 ---

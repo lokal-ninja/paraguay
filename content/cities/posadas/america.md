@@ -1,5 +1,5 @@
 ---
 title: "América"
 url: /posadas/america/
-shop: Schreibwaren
+shop: material de oficina
 ---

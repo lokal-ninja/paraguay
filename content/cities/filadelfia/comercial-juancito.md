@@ -1,5 +1,5 @@
 ---
 title: "Comercial Juancito"
 url: /filadelfia/comercial-juancito/
-shop: Eisenwaren
+shop: hardware
 ---

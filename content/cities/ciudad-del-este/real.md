@@ -1,5 +1,5 @@
 ---
 title: "Real"
 url: /ciudad-del-este/real/
-shop: Schreibwaren
+shop: material de oficina
 ---

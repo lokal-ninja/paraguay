@@ -1,5 +1,5 @@
 ---
 title: "Fank repuestos"
 url: /posadas/fank-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Creta"
 url: /posadas/creta/
-shop: Kleidung
+shop: ropa
 ---

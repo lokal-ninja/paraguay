@@ -1,5 +1,5 @@
 ---
 title: "Cardan"
 url: /posadas/cardan/
-shop: Autoteile
+shop: piezas de automóviles
 ---

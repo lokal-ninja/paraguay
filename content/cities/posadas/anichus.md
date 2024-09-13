@@ -1,5 +1,5 @@
 ---
 title: "Anichus"
 url: /posadas/anichus/
-shop: Kiosk
+shop: quiosco
 ---

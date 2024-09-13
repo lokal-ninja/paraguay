@@ -1,5 +1,5 @@
 ---
 title: "Grand Prix"
 url: /posadas/grand-prix/
-shop: Autohaus
+shop: coche
 ---

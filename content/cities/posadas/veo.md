@@ -1,5 +1,5 @@
 ---
 title: "Veo"
 url: /posadas/veo/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barchuk"
 url: /posadas/barchuk/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

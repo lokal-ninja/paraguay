@@ -1,5 +1,5 @@
 ---
 title: "Gomeria"
 url: /ciudad-del-este/gomeria/
-shop: Reifen
+shop: neumáticos
 ---

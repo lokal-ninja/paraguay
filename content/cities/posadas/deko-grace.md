@@ -1,5 +1,5 @@
 ---
 title: "Deko Grace"
 url: /posadas/deko-grace/
-shop: Raumausstattung
+shop: decoración interior
 ---

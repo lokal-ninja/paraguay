@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora"
 url: /ciudad-del-este/distribuidora/
-shop: Lebensmittel
+shop: comodidad
 ---

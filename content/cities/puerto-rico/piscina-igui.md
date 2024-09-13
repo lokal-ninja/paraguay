@@ -1,5 +1,5 @@
 ---
 title: "Piscina IGUI"
 url: /puerto-rico/piscina-igui/
-shop: Pool
+shop: piscina
 ---

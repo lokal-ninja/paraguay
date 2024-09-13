@@ -1,5 +1,5 @@
 ---
 title: "Bazzar Palma"
 url: /asuncion/bazzar-palma-palma/
-shop: Allgemein
+shop: general
 ---

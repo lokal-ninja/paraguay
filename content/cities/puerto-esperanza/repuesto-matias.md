@@ -1,5 +1,5 @@
 ---
 title: "repuesto Matías"
 url: /puerto-esperanza/repuesto-matias/
-shop: Autoteile
+shop: piezas de automóviles
 ---

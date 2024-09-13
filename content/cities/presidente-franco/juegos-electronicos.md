@@ -1,5 +1,5 @@
 ---
 title: "Juegos Electronicos"
 url: /presidente-franco/juegos-electronicos/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bolsaplast"
 url: /posadas/bolsaplast/
-shop: Allgemein
+shop: general
 ---

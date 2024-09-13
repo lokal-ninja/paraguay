@@ -1,5 +1,5 @@
 ---
 title: "Las Lucías"
 url: /posadas/las-lucias/
-shop: Bäckerei
+shop: panadería
 ---

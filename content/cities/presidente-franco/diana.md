@@ -1,5 +1,5 @@
 ---
 title: "Diana"
 url: /presidente-franco/diana/
-shop: Allgemein
+shop: general
 ---

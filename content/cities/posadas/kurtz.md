@@ -1,5 +1,5 @@
 ---
 title: "Kurtz"
 url: /posadas/kurtz/
-shop: Reisebüro
+shop: agencia de viajes
 ---

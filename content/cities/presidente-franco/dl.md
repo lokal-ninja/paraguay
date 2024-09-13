@@ -1,5 +1,5 @@
 ---
 title: "DL"
 url: /presidente-franco/dl/
-shop: Motorrad
+shop: motocicleta
 ---

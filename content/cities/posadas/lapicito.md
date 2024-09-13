@@ -1,5 +1,5 @@
 ---
 title: "Lapicito"
 url: /posadas/lapicito/
-shop: Schreibwaren
+shop: material de oficina
 ---

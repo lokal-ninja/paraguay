@@ -1,5 +1,5 @@
 ---
 title: "MultiExpress"
 url: /posadas/multiexpress/
-shop: Supermarkt
+shop: supermercado
 ---

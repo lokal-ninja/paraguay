@@ -1,5 +1,5 @@
 ---
 title: "Piturro"
 url: /posadas/piturro/
-shop: Zeitungen
+shop: quiosco
 ---

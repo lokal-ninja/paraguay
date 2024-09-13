@@ -1,5 +1,5 @@
 ---
 title: "Vivero Fenix"
 url: /posadas/vivero-fenix/
-shop: Garten-Center
+shop: centro de jardinería
 ---

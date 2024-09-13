@@ -1,5 +1,5 @@
 ---
 title: "Americana"
 url: /posadas/americana/
-shop: Eisenwaren
+shop: hardware
 ---

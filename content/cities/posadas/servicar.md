@@ -1,5 +1,5 @@
 ---
 title: "Servicar"
 url: /posadas/servicar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

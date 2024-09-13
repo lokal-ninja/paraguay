@@ -1,5 +1,5 @@
 ---
 title: "Técno Bambozzi"
 url: /san-lorenzo/tecno-bambozzi/
-shop: Allgemein
+shop: general
 ---

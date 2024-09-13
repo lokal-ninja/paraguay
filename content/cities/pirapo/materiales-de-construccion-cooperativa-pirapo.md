@@ -1,5 +1,5 @@
 ---
 title: "Materiales de Construcción Cooperativa Pirapó"
 url: /pirapo/materiales-de-construccion-cooperativa-pirapo/
-shop: Eisenwaren
+shop: hardware
 ---

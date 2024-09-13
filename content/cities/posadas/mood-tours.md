@@ -1,5 +1,5 @@
 ---
 title: "Mood Tours"
 url: /posadas/mood-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

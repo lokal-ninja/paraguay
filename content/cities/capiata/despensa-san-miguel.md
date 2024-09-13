@@ -1,5 +1,5 @@
 ---
 title: "Despensa San Miguel"
 url: /capiata/despensa-san-miguel/
-shop: Lebensmittel
+shop: comodidad
 ---

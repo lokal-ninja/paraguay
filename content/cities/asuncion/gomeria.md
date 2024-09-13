@@ -1,5 +1,5 @@
 ---
 title: "Gomeria"
 url: /asuncion/gomeria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

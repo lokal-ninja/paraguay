@@ -1,5 +1,5 @@
 ---
 title: "Mundo Infantil"
 url: /ciudad-del-este/mundo-infantil/
-shop: Babysachen
+shop: artículos para bebés
 ---

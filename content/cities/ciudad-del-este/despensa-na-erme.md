@@ -1,5 +1,5 @@
 ---
 title: "Despensa na Erme"
 url: /ciudad-del-este/despensa-na-erme/
-shop: Lebensmittel
+shop: comodidad
 ---

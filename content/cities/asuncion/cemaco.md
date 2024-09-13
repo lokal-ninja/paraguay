@@ -1,5 +1,5 @@
 ---
 title: "Cemaco"
 url: /asuncion/cemaco/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

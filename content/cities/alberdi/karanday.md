@@ -1,5 +1,5 @@
 ---
 title: "Karanday"
 url: /alberdi/karanday/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cacique Aregua"
 url: /aregua/cacique-aregua/
-shop: Supermarkt
+shop: supermercado
 ---

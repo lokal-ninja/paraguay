@@ -1,5 +1,5 @@
 ---
 title: "Miguelito"
 url: /posadas/miguelito/
-shop: Metzgerei
+shop: carnicero
 ---

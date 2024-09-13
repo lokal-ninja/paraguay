@@ -1,5 +1,5 @@
 ---
 title: "Arena el sapo"
 url: /pilar/arena-el-sapo/
-shop: Allgemein
+shop: general
 ---

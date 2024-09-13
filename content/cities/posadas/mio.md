@@ -1,5 +1,5 @@
 ---
 title: "Mío"
 url: /posadas/mio/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio los hermanos"
 url: /puerto-rico/autoservicio-los-hermanos/
-shop: Supermarkt
+shop: supermercado
 ---

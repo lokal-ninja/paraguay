@@ -1,5 +1,5 @@
 ---
 title: "Mistral"
 url: /posadas/mistral/
-shop: Kleidung
+shop: ropa
 ---

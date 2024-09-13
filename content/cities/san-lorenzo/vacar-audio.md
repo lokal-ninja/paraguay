@@ -1,5 +1,5 @@
 ---
 title: "Vacar Audio"
 url: /san-lorenzo/vacar-audio/
-shop: Allgemein
+shop: general
 ---

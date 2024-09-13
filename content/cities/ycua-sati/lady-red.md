@@ -1,5 +1,5 @@
 ---
 title: "Lady Red"
 url: /ycua-sati/lady-red/
-shop: Kleidung
+shop: ropa
 ---

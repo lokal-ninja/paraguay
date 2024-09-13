@@ -1,5 +1,5 @@
 ---
 title: "Navajo"
 url: /posadas/navajo/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Syna"
 url: /posadas/syna/
-shop: Handy
+shop: teléfono móvil
 ---

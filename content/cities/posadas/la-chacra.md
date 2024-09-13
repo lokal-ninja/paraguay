@@ -1,5 +1,5 @@
 ---
 title: "La Chacra"
 url: /posadas/la-chacra/
-shop: Metzgerei
+shop: carnicero
 ---

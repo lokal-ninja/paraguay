@@ -1,5 +1,5 @@
 ---
 title: "Productos Ocshi"
 url: /ciudad-del-este/productos-ocshi/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tokyo"
 url: /fernando-de-la-mora/tokyo/
-shop: Allgemein
+shop: general
 ---

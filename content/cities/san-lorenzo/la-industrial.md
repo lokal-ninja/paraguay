@@ -1,5 +1,5 @@
 ---
 title: "La Industrial"
 url: /san-lorenzo/la-industrial/
-shop: Allgemein
+shop: general
 ---

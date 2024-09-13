@@ -1,5 +1,5 @@
 ---
 title: "Carpolitano"
 url: /posadas/carpolitano/
-shop: Kiosk
+shop: quiosco
 ---

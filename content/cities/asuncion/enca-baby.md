@@ -1,5 +1,5 @@
 ---
 title: "Enca Baby"
 url: /asuncion/enca-baby/
-shop: Babysachen
+shop: artículos para bebés
 ---

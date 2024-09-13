@@ -1,5 +1,5 @@
 ---
 title: "Lavandería Ña Olga"
 url: /paraguari/lavanderia-na-olga/
-shop: Wäscherei
+shop: lavandería
 ---

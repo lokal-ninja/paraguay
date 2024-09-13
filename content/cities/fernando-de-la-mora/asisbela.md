@@ -1,5 +1,5 @@
 ---
 title: "Asisbela"
 url: /fernando-de-la-mora/asisbela/
-shop: Kosmetik
+shop: cosméticos
 ---

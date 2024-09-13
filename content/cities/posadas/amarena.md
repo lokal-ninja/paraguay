@@ -1,5 +1,5 @@
 ---
 title: "Amarena"
 url: /posadas/amarena/
-shop: Getränke
+shop: bebidas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferromar"
 url: /posadas/ferromar/
-shop: Eisenwaren
+shop: hardware
 ---

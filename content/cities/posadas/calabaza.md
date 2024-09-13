@@ -1,5 +1,5 @@
 ---
 title: "Calabaza"
 url: /posadas/calabaza/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

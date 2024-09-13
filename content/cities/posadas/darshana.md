@@ -1,5 +1,5 @@
 ---
 title: "Darshana"
 url: /posadas/darshana/
-shop: Spirituosen
+shop: alcohol
 ---

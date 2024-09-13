@@ -1,5 +1,5 @@
 ---
 title: "Raquelita"
 url: /minga-guazu/raquelita/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chaperia Chaco"
 url: /filadelfia/chaperia-chaco/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

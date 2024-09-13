@@ -1,5 +1,5 @@
 ---
 title: "Rapidito"
 url: /ciudad-del-este/rapidito/
-shop: Lebensmittel
+shop: comodidad
 ---

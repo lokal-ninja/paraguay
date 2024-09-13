@@ -1,5 +1,5 @@
 ---
 title: "Punto y Toma"
 url: /posadas/punto-y-toma/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diarco"
 url: /posadas/diarco/
-shop: Supermarkt
+shop: supermercado
 ---

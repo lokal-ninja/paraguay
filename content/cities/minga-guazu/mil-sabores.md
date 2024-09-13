@@ -1,5 +1,5 @@
 ---
 title: "Mil Sabores"
 url: /minga-guazu/mil-sabores/
-shop: Bäckerei
+shop: panadería
 ---

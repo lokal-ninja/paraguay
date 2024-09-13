@@ -1,5 +1,5 @@
 ---
 title: "Grise"
 url: /eldorado/grise/
-shop: Friseur
+shop: peluquería
 ---

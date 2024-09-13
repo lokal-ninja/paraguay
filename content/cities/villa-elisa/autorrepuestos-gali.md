@@ -1,5 +1,5 @@
 ---
 title: "Autorrepuestos Gali"
 url: /villa-elisa/autorrepuestos-gali/
-shop: Autoteile
+shop: piezas de automóviles
 ---

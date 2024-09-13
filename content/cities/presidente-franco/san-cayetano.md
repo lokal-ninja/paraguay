@@ -1,5 +1,5 @@
 ---
 title: "San Cayetano"
 url: /presidente-franco/san-cayetano/
-shop: Allgemein
+shop: general
 ---

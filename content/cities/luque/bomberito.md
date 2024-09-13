@@ -1,5 +1,5 @@
 ---
 title: "Bomberito"
 url: /luque/bomberito/
-shop: Kamine & Öfen
+shop: horno y estufa
 ---

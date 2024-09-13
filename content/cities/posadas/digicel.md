@@ -1,5 +1,5 @@
 ---
 title: "DigiCel"
 url: /posadas/digicel/
-shop: Handy
+shop: teléfono móvil
 ---

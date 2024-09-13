@@ -1,5 +1,5 @@
 ---
 title: "PilFur"
 url: /santa-ana/pilfur/
-shop: Lebensmittel
+shop: comodidad
 ---

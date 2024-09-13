@@ -1,5 +1,5 @@
 ---
 title: "Casa René"
 url: /ciudad-del-este/casa-rene/
-shop: Spirituosen
+shop: alcohol
 ---

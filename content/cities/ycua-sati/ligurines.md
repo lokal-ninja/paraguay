@@ -1,5 +1,5 @@
 ---
 title: "Ligurines"
 url: /ycua-sati/ligurines/
-shop: Babysachen
+shop: artículos para bebés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ana Elizabeth"
 url: /ciudad-del-este/ana-elizabeth/
-shop: Kleidung
+shop: ropa
 ---

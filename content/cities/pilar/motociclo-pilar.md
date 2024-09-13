@@ -1,5 +1,5 @@
 ---
 title: "Motociclo Pilar"
 url: /pilar/motociclo-pilar/
-shop: Dorfladen
+shop: tienda rural
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Herboristeria"
 url: /fernando-de-la-mora/herboristeria/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Qualitech"
 url: /posadas/qualitech/
-shop: Computer
+shop: ordenador
 ---

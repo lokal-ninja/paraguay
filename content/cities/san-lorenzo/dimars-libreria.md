@@ -1,5 +1,5 @@
 ---
 title: "Dimar's Libreria"
 url: /san-lorenzo/dimars-libreria/
-shop: Bücher
+shop: libros
 ---

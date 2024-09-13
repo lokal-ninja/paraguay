@@ -1,5 +1,5 @@
 ---
 title: "PRONTO"
 url: /caacupe/pronto/
-shop: Supermarkt
+shop: supermercado
 ---

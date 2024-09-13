@@ -1,5 +1,5 @@
 ---
 title: "Avelli"
 url: /posadas/avelli/
-shop: Autohaus
+shop: coche
 ---

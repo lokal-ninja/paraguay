@@ -1,5 +1,5 @@
 ---
 title: "ALEX"
 url: /ycua-sati/alex/
-shop: Elektronik
+shop: electrónica
 ---

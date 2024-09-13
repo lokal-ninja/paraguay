@@ -1,5 +1,5 @@
 ---
 title: "Alizon Boutique"
 url: /fernando-de-la-mora/alizon-boutique/
-shop: Allgemein
+shop: general
 ---

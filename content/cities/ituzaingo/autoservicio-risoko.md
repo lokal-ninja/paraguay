@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Risoko"
 url: /ituzaingo/autoservicio-risoko/
-shop: Lebensmittel
+shop: comodidad
 ---

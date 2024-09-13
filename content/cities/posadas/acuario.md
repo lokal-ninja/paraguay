@@ -1,5 +1,5 @@
 ---
 title: "Acuario"
 url: /posadas/acuario/
-shop: Metzgerei
+shop: carnicero
 ---

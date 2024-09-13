@@ -1,5 +1,5 @@
 ---
 title: "Show Sport"
 url: /posadas/show-sport/
-shop: Sport
+shop: deportes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RS Soluciones"
 url: /puerto-rico/rs-soluciones/
-shop: Computer
+shop: ordenador
 ---

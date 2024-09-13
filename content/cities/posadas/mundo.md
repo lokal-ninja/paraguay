@@ -1,5 +1,5 @@
 ---
 title: "Mundo"
 url: /posadas/mundo/
-shop: Optiker
+shop: óptico
 ---

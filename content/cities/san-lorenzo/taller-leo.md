@@ -1,5 +1,5 @@
 ---
 title: "TALLER LEO"
 url: /san-lorenzo/taller-leo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

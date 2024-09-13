@@ -1,5 +1,5 @@
 ---
 title: "Tonel"
 url: /posadas/tonel/
-shop: Wein
+shop: vino
 ---

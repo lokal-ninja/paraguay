@@ -1,5 +1,5 @@
 ---
 title: "Marrella"
 url: /ciudad-del-este/marrella/
-shop: Allgemein
+shop: general
 ---

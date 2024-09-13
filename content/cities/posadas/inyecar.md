@@ -1,5 +1,5 @@
 ---
 title: "Inyecar"
 url: /posadas/inyecar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

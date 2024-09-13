@@ -1,5 +1,5 @@
 ---
 title: "Herszer"
 url: /posadas/herszer/
-shop: Eisenwaren
+shop: hardware
 ---

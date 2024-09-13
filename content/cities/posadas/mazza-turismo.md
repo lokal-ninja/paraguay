@@ -1,5 +1,5 @@
 ---
 title: "Mazza Turismo"
 url: /posadas/mazza-turismo/
-shop: Reisebüro
+shop: agencia de viajes
 ---

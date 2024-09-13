@@ -1,5 +1,5 @@
 ---
 title: "Casa Royal"
 url: /asuncion/casa-royal/
-shop: Lebensmittel
+shop: comodidad
 ---

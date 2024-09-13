@@ -1,5 +1,5 @@
 ---
 title: "Alejandro Benítez Calzados"
 url: /encarnacion/alejandro-benitez-calzados/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Escapes Manolo"
 url: /posadas/escapes-manolo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Minishop Cesarito"
 url: /asuncion/minishop-cesarito/
-shop: Kiosk
+shop: quiosco
 ---

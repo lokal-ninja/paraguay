@@ -1,5 +1,5 @@
 ---
 title: "Capicua"
 url: /puerto-iguazu/capicua/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taller Seewald"
 url: /puerto-rico/taller-seewald/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

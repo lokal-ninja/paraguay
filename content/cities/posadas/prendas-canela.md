@@ -1,5 +1,5 @@
 ---
 title: "Prendas Canela"
 url: /posadas/prendas-canela/
-shop: Kleidung
+shop: ropa
 ---

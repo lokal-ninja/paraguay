@@ -1,5 +1,5 @@
 ---
 title: "Lowe"
 url: /eldorado/lowe/
-shop: Autohaus
+shop: coche
 ---

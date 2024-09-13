@@ -1,5 +1,5 @@
 ---
 title: "New Sport"
 url: /ciudad-del-este/new-sport/
-shop: Kleidung
+shop: ropa
 ---

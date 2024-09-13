@@ -1,5 +1,5 @@
 ---
 title: "Efectivo Sí"
 url: /posadas/efectivo-si/
-shop: Schreibwaren
+shop: material de oficina
 ---

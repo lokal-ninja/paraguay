@@ -1,5 +1,5 @@
 ---
 title: "Paraná"
 url: /garupa/parana/
-shop: Eisenwaren
+shop: hardware
 ---

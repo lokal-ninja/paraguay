@@ -1,5 +1,5 @@
 ---
 title: "Cia Francesa"
 url: /ciudad-del-este/cia-francesa/
-shop: Allgemein
+shop: general
 ---

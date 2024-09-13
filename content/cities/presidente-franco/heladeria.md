@@ -1,5 +1,5 @@
 ---
 title: "Heladería"
 url: /presidente-franco/heladeria/
-shop: Eisprodukte
+shop: helado
 ---
