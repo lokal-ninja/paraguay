@@ -1,11 +1,11 @@
 id: 466916241
-type: way
+type: node
 latitude: -25.40686
 longitude: -54.63216
 postcode: "7220"
 city: Hernandarias
-street: "Avenida Juan E. O'Leary"
-housenumber: 
+street: Avenida Juan E. O'Leary
+housenumber: ""
 phone: ""
-opening_hours: "07:00 - 21:30"
+opening_hours: 07:00 - 21:30
 website: ""

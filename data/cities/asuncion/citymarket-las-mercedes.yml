@@ -1,11 +1,11 @@
 id: 505421335
-type: way
+type: node
 latitude: -25.28348
 longitude: -57.61228
 postcode: ""
 city: Asuncion
-street: "Padre Egidio Cardozo"
-housenumber: 698
+street: Padre Egidio Cardozo
+housenumber: "698"
 phone: ""
-opening_hours: "07:00-22:00"
-website: "http://www.citymarket.com.py"
+opening_hours: 07:00-22:00
+website: http://www.citymarket.com.py

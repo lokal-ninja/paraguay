@@ -4,8 +4,8 @@ latitude: -27.36133
 longitude: -55.89908
 postcode: "3300"
 city: Posadas
-street: "Jujuy"
-housenumber: 1259
-phone: "+54 376 4573411"
+street: Jujuy
+housenumber: "1259"
+phone: +54 376 4573411
 opening_hours: ""
-website: "https://generationmood.tur.ar/api/"
+website: https://generationmood.tur.ar/api/

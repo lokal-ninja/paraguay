@@ -1,11 +1,11 @@
 id: 276527496
-type: way
+type: node
 latitude: -25.28791
 longitude: -57.57361
 postcode: "001411"
 city: VIilla Morra
-street: "Avenida General José de San Martín"
-housenumber: 
-phone: "(021) 623-114"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "http://www.feriaasuncion.com.py/"
+street: Avenida General José de San Martín
+housenumber: ""
+phone: (021) 623-114
+opening_hours: Mo-Sa 09:00-20:00
+website: http://www.feriaasuncion.com.py/

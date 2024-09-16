@@ -1,11 +1,11 @@
 id: 1094649782
-type: way
+type: node
 latitude: -25.29057
 longitude: -57.57015
 postcode: "001409"
 city: Ycuá Satí
-street: "Doctor Eusebio Lillo Robles"
-housenumber: 1941
-phone: "+595 21 614191"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-13:00"
-website: "https://www.fullequipo.com.py/"
+street: Doctor Eusebio Lillo Robles
+housenumber: "1941"
+phone: +595 21 614191
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-13:00
+website: https://www.fullequipo.com.py/

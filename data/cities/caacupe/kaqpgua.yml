@@ -1,11 +1,11 @@
 id: 782761364
-type: way
+type: node
 latitude: -25.3911
 longitude: -57.15007
 postcode: "3000"
 city: Caacupé
-street: "El Agricultor"
-housenumber: 
+street: El Agricultor
+housenumber: ""
 phone: "+595981149222"
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

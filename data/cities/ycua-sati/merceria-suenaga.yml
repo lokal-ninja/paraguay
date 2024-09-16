@@ -1,11 +1,11 @@
 id: 1096142306
-type: way
+type: node
 latitude: -25.29119
 longitude: -57.56773
 postcode: "001409"
 city: Ycuá Satí
-street: "Doctor Eusebio Lillo Robles"
-housenumber: 2139
-phone: "+595 972 551 421"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+street: Doctor Eusebio Lillo Robles
+housenumber: "2139"
+phone: +595 972 551 421
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

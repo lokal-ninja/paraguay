@@ -1,11 +1,11 @@
 id: 584441049
-type: way
+type: node
 latitude: -27.38251
 longitude: -55.89998
 postcode: "3301"
 city: Posadas
-street: "Avenida Uruguay"
-housenumber: 3588
-phone: "+54 376 438-2243"
-opening_hours: "Mo-Fr 08:00-13:00,16:00-21:00; Sa 08:00-13:00"
-website: "https://www.mobimotos.com.ar/"
+street: Avenida Uruguay
+housenumber: "3588"
+phone: +54 376 438-2243
+opening_hours: Mo-Fr 08:00-13:00,16:00-21:00; Sa 08:00-13:00
+website: https://www.mobimotos.com.ar/

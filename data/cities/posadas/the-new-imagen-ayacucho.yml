@@ -1,11 +1,11 @@
 id: 318328475
-type: way
+type: node
 latitude: -27.36796
 longitude: -55.89666
 postcode: "3300"
 city: Posadas
-street: "Ayacucho"
-housenumber: 377
+street: Ayacucho
+housenumber: "377"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: -27.36201
 longitude: -55.8946
 postcode: "3300"
 city: Posadas
-street: "Alvear"
-housenumber: 1970
-phone: "+54 376 443-7436"
-opening_hours: "Mo-Fr 08:00-12:00,16:00-20:00; Sa 08:00-12:30,16:00-20:00"
+street: Alvear
+housenumber: "1970"
+phone: +54 376 443-7436
+opening_hours: Mo-Fr 08:00-12:00,16:00-20:00; Sa 08:00-12:30,16:00-20:00
 website: ""

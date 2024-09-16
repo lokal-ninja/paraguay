@@ -1,11 +1,11 @@
 id: 360562269
-type: way
+type: node
 latitude: -27.40106
 longitude: -55.93897
-postcode: "N3300GBF"
+postcode: N3300GBF
 city: Posadas
-street: "Avenida Quaranta"
-housenumber: 5993
-phone: "+54 376 459 6292"
+street: Avenida Quaranta
+housenumber: "5993"
+phone: +54 376 459 6292
 opening_hours: ""
-website: "http://www.superlegitimo2.com.ar"
+website: http://www.superlegitimo2.com.ar

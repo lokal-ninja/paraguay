@@ -1,11 +1,11 @@
 id: 1094643932
-type: way
+type: node
 latitude: -25.29011
 longitude: -57.5719
 postcode: "001409"
 city: Ycuá Satí
-street: "Doctor Eusebio Lillo Robles"
-housenumber: 1767
-phone: "+595 994 472555"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
-website: "https://multitex.com.py/"
+street: Doctor Eusebio Lillo Robles
+housenumber: "1767"
+phone: +595 994 472555
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
+website: https://multitex.com.py/

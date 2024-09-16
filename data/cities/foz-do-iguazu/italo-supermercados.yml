@@ -1,11 +1,11 @@
 id: 297664767
-type: way
+type: node
 latitude: -25.54421
 longitude: -54.58336
 postcode: ""
 city: Foz Do Iguazu
-street: "Rua Edmundo de Barros"
-housenumber: 303
+street: Rua Edmundo de Barros
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

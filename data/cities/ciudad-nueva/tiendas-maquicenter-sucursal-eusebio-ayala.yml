@@ -1,11 +1,11 @@
 id: 1229558772
-type: way
+type: node
 latitude: -25.30139
 longitude: -57.61798
 postcode: "001226"
 city: Ciudad Nueva
-street: "Avenida Doctor Eusebio Ayala"
-housenumber: 
-phone: "(021) 208 366"
+street: Avenida Doctor Eusebio Ayala
+housenumber: ""
+phone: (021) 208 366
 opening_hours: ""
-website: "https://www.maquicenter.com.py/"
+website: https://www.maquicenter.com.py/

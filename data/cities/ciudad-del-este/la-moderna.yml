@@ -1,11 +1,11 @@
 id: 458085772
-type: way
+type: node
 latitude: -25.50678
 longitude: -54.66999
 postcode: ""
 city: Ciudad Del Este
-street: "Avenida San José"
-housenumber: 
+street: Avenida San José
+housenumber: ""
 phone: ""
-opening_hours: "07:30-20:30"
+opening_hours: 07:30-20:30
 website: ""

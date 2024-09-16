@@ -1,11 +1,11 @@
 id: 1098123263
-type: way
+type: node
 latitude: -25.2923
 longitude: -57.56013
 postcode: "001409"
 city: Ycuá Satí
-street: "Capitán Denis Roa"
-housenumber: 
-phone: "021 613 030"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-12:00"
-website: "http://www.masterfix.com.py/"
+street: Capitán Denis Roa
+housenumber: ""
+phone: 021 613 030
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-12:00
+website: http://www.masterfix.com.py/

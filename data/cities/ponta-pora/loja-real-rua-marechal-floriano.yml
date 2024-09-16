@@ -1,11 +1,11 @@
 id: 683772104
-type: way
+type: node
 latitude: -22.53886
 longitude: -55.72981
-postcode: "79000-000"
+postcode: 79000-000
 city: Ponta Porã
-street: "Rua Marechal Floriano"
-housenumber: 1957
-phone: "+55 67 3431-8511"
+street: Rua Marechal Floriano
+housenumber: "1957"
+phone: +55 67 3431-8511
 opening_hours: ""
 website: ""

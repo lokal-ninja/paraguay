@@ -1,11 +1,11 @@
 id: 459906237
-type: way
+type: node
 latitude: -25.32314
 longitude: -57.5944
 postcode: ""
 city: Asunción
-street: "Avenida República Argentina"
-housenumber: 
-phone: "+595 21 557 220"
-opening_hours: "Mo-Sa 07:30-18:00"
-website: "https://autologic.com.py/"
+street: Avenida República Argentina
+housenumber: ""
+phone: +595 21 557 220
+opening_hours: Mo-Sa 07:30-18:00
+website: https://autologic.com.py/

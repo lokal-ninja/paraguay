@@ -1,11 +1,11 @@
 id: 584441058
-type: way
+type: node
 latitude: -26.18304
 longitude: -58.17422
 postcode: "3600"
 city: Formosa
-street: "Saavedra"
-housenumber: 828
-phone: "+54 370 445-5244"
-opening_hours: "Mo-Fr 08:00-12:30,16:30-20:30; Sa 08:30-12:30"
-website: "https://www.vera-motos.com/"
+street: Saavedra
+housenumber: "828"
+phone: +54 370 445-5244
+opening_hours: Mo-Fr 08:00-12:30,16:30-20:30; Sa 08:30-12:30
+website: https://www.vera-motos.com/

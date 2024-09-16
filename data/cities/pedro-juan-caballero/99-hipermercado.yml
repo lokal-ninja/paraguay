@@ -1,11 +1,11 @@
 id: 1313289857
-type: way
+type: node
 latitude: -22.55661
 longitude: -55.74624
 postcode: "130115"
 city: Pedro Juan Caballero
-street: "Toledo y Estrella"
-housenumber: 
+street: Toledo y Estrella
+housenumber: ""
 phone: "+595971807999"
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

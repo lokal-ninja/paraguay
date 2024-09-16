@@ -1,11 +1,11 @@
 id: 1195431921
-type: way
+type: node
 latitude: -25.29836
 longitude: -57.60325
 postcode: "001229"
 city: MBURICAO
-street: "25 de Mayo"
-housenumber: 
+street: 25 de Mayo
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

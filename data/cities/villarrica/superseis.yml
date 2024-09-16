@@ -1,11 +1,11 @@
 id: 789687816
-type: way
+type: node
 latitude: -25.76715
 longitude: -56.44184
 postcode: "5000"
 city: Villarrica
-street: "Boulevard Río Apa"
-housenumber: 
+street: Boulevard Río Apa
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

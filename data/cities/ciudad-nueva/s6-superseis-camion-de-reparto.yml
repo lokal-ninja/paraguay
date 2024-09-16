@@ -1,11 +1,11 @@
 id: 635485619
-type: way
+type: node
 latitude: -25.30113
 longitude: -57.61677
 postcode: "001226"
 city: Ciudad Nueva
-street: "Coronel José María Aguiar"
-housenumber: 
+street: Coronel José María Aguiar
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

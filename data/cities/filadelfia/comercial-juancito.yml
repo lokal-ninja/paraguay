@@ -1,11 +1,11 @@
 id: 439903820
-type: way
+type: node
 latitude: -22.35614
 longitude: -60.03206
 postcode: ""
 city: Filadelfia
-street: "Industrial"
+street: Industrial
 housenumber: 177-E
-phone: "+595 491 432 535"
-opening_hours: "Mo-Fr 07:00-11:30, 14:00-18:00; Sa 07:00-11:30"
+phone: +595 491 432 535
+opening_hours: Mo-Fr 07:00-11:30, 14:00-18:00; Sa 07:00-11:30
 website: ""

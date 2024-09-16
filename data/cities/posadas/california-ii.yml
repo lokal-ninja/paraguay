@@ -1,11 +1,11 @@
 id: 304389245
-type: way
+type: node
 latitude: -27.37368
 longitude: -55.89764
 postcode: ""
 city: Posadas
-street: "Santiago del Estero"
-housenumber: 2173
-phone: "+54 376 470 0485"
-opening_hours: "Mo-Sa 08:00-13:00, 16:00-21:00"
+street: Santiago del Estero
+housenumber: "2173"
+phone: +54 376 470 0485
+opening_hours: Mo-Sa 08:00-13:00, 16:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1094639988
-type: way
+type: node
 latitude: -25.28959
 longitude: -57.57347
 postcode: "001409"
 city: Ycuá Satí
-street: "Avenida General José de San Martín"
-housenumber: 1411
-phone: "+595 981 605553"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:00"
-website: "https://www.alex.com.py/"
+street: Avenida General José de San Martín
+housenumber: "1411"
+phone: +595 981 605553
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-14:00
+website: https://www.alex.com.py/

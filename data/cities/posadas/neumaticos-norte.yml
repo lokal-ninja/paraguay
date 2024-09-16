@@ -1,11 +1,11 @@
 id: 459958473
-type: way
+type: node
 latitude: -27.42269
 longitude: -55.89951
 postcode: ""
 city: Posadas
-street: "Avenida Tulo Llamosas"
-housenumber: 8012
+street: Avenida Tulo Llamosas
+housenumber: "8012"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,16:00-20:00; Sa 08:00-12:45"
+opening_hours: Mo-Fr 08:00-12:00,16:00-20:00; Sa 08:00-12:45
 website: ""

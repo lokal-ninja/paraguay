@@ -1,11 +1,11 @@
 id: 500250531
-type: way
+type: node
 latitude: -25.28837
 longitude: -57.58992
 postcode: ""
 city: Asunción
-street: "Santísimo Sacramento"
-housenumber: 347
+street: Santísimo Sacramento
+housenumber: "347"
 phone: ""
-opening_hours: "07:30-18:00"
+opening_hours: 07:30-18:00
 website: ""

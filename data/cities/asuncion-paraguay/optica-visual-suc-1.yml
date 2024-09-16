@@ -1,11 +1,11 @@
 id: 642413532
-type: way
+type: node
 latitude: -25.28811
 longitude: -57.6246
 postcode: ""
 city: Asuncion, Paraguay
-street: "Brasil"
-housenumber: 322
+street: Brasil
+housenumber: "322"
 phone: ""
-opening_hours: "08.30 a 19 hs"
+opening_hours: 08.30 a 19 hs
 website: ""

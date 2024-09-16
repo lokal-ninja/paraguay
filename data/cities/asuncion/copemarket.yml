@@ -1,11 +1,11 @@
 id: 998874759
-type: way
+type: node
 latitude: -25.29512
 longitude: -57.57683
 postcode: ""
 city: Asunción
-street: "Avenida República Argentina y Mariscal López"
-housenumber: 
+street: Avenida República Argentina y Mariscal López
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://copetrol.com.py/"
+opening_hours: 24/7
+website: https://copetrol.com.py/

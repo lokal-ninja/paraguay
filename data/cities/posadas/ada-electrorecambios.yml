@@ -1,11 +1,11 @@
 id: 314328198
-type: way
+type: node
 latitude: -27.39748
 longitude: -55.90207
 postcode: "3300"
 city: Posadas
-street: "Avenida Uruguay"
-housenumber: 5390
+street: Avenida Uruguay
+housenumber: "5390"
 phone: ""
 opening_hours: ""
 website: ""

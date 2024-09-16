@@ -1,11 +1,11 @@
 id: 382986994
-type: way
+type: node
 latitude: -27.36669
 longitude: -55.89706
 postcode: "3300"
 city: Posadas
-street: "Bolívar"
-housenumber: 2121
+street: Bolívar
+housenumber: "2121"
 phone: ""
 opening_hours: ""
 website: ""

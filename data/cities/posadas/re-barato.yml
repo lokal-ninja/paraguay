@@ -1,11 +1,11 @@
 id: 382721943
-type: way
+type: node
 latitude: -27.36862
 longitude: -55.89684
 postcode: "3300"
 city: Posadas
-street: "La Rioja"
-housenumber: 2085
+street: La Rioja
+housenumber: "2085"
 phone: ""
 opening_hours: ""
 website: ""

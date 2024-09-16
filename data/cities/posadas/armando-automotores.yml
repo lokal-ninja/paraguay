@@ -1,11 +1,11 @@
 id: 314328202
-type: way
+type: node
 latitude: -27.39722
 longitude: -55.90209
-postcode: "N3300MPO"
+postcode: N3300MPO
 city: Posadas
-street: "Avenida Uruguay"
-housenumber: 5370
-phone: "+54 376 459 6136"
+street: Avenida Uruguay
+housenumber: "5370"
+phone: +54 376 459 6136
 opening_hours: ""
 website: ""

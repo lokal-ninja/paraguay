@@ -1,11 +1,11 @@
 id: 1234141666
-type: way
+type: node
 latitude: -25.30158
 longitude: -57.61563
 postcode: "001226"
 city: Ciudad Nueva
-street: "Capitán Juan Bautista Rivarola"
-housenumber: 
+street: Capitán Juan Bautista Rivarola
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

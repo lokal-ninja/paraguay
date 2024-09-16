@@ -1,11 +1,11 @@
 id: 622594693
-type: way
+type: node
 latitude: -25.29021
 longitude: -57.63218
 postcode: ""
 city: Asunción
-street: "25 de Mayo"
-housenumber: 343
-phone: "+595 971 838282"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: 25 de Mayo
+housenumber: "343"
+phone: +595 971 838282
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

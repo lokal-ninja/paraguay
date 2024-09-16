@@ -1,11 +1,11 @@
 id: 945521530
-type: way
+type: node
 latitude: -24.09448
 longitude: -54.26099
 postcode: "85980000"
 city: Guaíra Parana
-street: "Avenida Thomas Luiz Zeballos"
-housenumber: 2220
-phone: "+55-44-3642-1146"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: Avenida Thomas Luiz Zeballos
+housenumber: "2220"
+phone: +55-44-3642-1146
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

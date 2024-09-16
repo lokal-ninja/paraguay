@@ -1,11 +1,11 @@
 id: 314449836
-type: way
+type: node
 latitude: -27.39488
 longitude: -55.90123
-postcode: "N3300MOL"
+postcode: N3300MOL
 city: Posadas
-street: "Avenida Uruguay"
-housenumber: 5081
-phone: "+54 376 445 7714"
+street: Avenida Uruguay
+housenumber: "5081"
+phone: +54 376 445 7714
 opening_hours: ""
 website: ""

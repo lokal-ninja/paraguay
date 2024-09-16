@@ -1,11 +1,11 @@
 id: 784982937
-type: way
+type: node
 latitude: -25.39254
 longitude: -57.16883
 postcode: "3000"
 city: Caacupé
-street: "24 de Junio"
-housenumber: 
+street: 24 de Junio
+housenumber: ""
 phone: "+595973519543"
-opening_hours: "Mo-Sa 07:00-17:00"
+opening_hours: Mo-Sa 07:00-17:00
 website: ""

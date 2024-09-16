@@ -1,11 +1,11 @@
 id: 1234153981
-type: way
+type: node
 latitude: -25.28896
 longitude: -57.57295
 postcode: "001409"
 city: Ycuá Satí
-street: "Avenida General José de San Martín"
-housenumber: 
+street: Avenida General José de San Martín
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

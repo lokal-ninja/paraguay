@@ -1,11 +1,11 @@
 id: 1114732921
-type: way
+type: node
 latitude: -25.28031
 longitude: -57.17077
 postcode: "030402"
 city: San Antonio
-street: "San Francisco"
-housenumber: 
-phone: "(0520) 20108"
+street: San Francisco
+housenumber: ""
+phone: (0520) 20108
 opening_hours: ""
 website: ""

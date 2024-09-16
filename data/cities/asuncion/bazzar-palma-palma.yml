@@ -1,11 +1,11 @@
 id: 1141760389
-type: way
+type: node
 latitude: -25.27943
 longitude: -57.63917
 postcode: "001206"
 city: Asunción
-street: "Palma"
-housenumber: 776
+street: Palma
+housenumber: "776"
 phone: "+59521441200"
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

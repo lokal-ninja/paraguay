@@ -1,11 +1,11 @@
 id: 584441047
-type: way
+type: node
 latitude: -27.37519
 longitude: -55.89914
 postcode: "3300"
 city: Posadas
-street: "Avenida Uruguay"
-housenumber: 2662
-phone: "+54 376 442-8155"
-opening_hours: "Mo-Fr 08:00-12:00,16:00-20:00; Sa 08:00-12:00"
-website: "https://www.sailpowersc.com/"
+street: Avenida Uruguay
+housenumber: "2662"
+phone: +54 376 442-8155
+opening_hours: Mo-Fr 08:00-12:00,16:00-20:00; Sa 08:00-12:00
+website: https://www.sailpowersc.com/

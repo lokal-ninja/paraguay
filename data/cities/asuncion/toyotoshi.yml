@@ -1,11 +1,11 @@
 id: 459425515
-type: way
+type: node
 latitude: -25.29043
 longitude: -57.58752
 postcode: ""
 city: Asunción
-street: "Mariscal Francisco Solano López"
-housenumber: 238
+street: Mariscal Francisco Solano López
+housenumber: "238"
 phone: ""
 opening_hours: ""
 website: ""

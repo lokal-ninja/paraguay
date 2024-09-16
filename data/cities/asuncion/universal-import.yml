@@ -1,11 +1,11 @@
 id: 925372549
-type: way
+type: node
 latitude: -25.25779
 longitude: -57.56925
 postcode: ""
 city: Asunción
-street: "Itapúa"
-housenumber: 1156
+street: Itapúa
+housenumber: "1156"
 phone: ""
 opening_hours: ""
-website: "https://www.universal.com.py/"
+website: https://www.universal.com.py/

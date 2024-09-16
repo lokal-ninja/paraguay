@@ -1,11 +1,11 @@
 id: 362429835
-type: way
+type: node
 latitude: -25.5326
 longitude: -54.57551
-postcode: "85863-000"
+postcode: 85863-000
 city: Foz do Iguaçu
-street: "Avenida Costa e Silva"
-housenumber: 185
+street: Avenida Costa e Silva
+housenumber: "185"
 phone: ""
-opening_hours: "Mo-Su 09:00-22:00"
+opening_hours: Mo-Su 09:00-22:00
 website: ""

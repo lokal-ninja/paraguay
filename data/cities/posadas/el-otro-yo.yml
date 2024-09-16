@@ -1,11 +1,11 @@
 id: 572434612
-type: way
+type: node
 latitude: -27.38611
 longitude: -55.91292
 postcode: "3300"
 city: Posadas
-street: "Avenida Chacabuco"
-housenumber: 
+street: Avenida Chacabuco
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

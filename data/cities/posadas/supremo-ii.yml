@@ -1,11 +1,11 @@
 id: 283047646
-type: way
+type: node
 latitude: -27.39188
 longitude: -55.94317
 postcode: "3300"
 city: Posadas
-street: "Avenida Jauretche"
-housenumber: 5250
+street: Avenida Jauretche
+housenumber: "5250"
 phone: ""
-opening_hours: "Mo-Sa 08:30-13:00,17:00-22:00; Su 09:00-13:30,17:30-22:00"
+opening_hours: Mo-Sa 08:30-13:00,17:00-22:00; Su 09:00-13:30,17:30-22:00
 website: ""

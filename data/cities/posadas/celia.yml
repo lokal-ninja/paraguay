@@ -4,8 +4,9 @@ latitude: -27.36752
 longitude: -55.90918
 postcode: "3300"
 city: Posadas
-street: "Avenida Santa Catalina"
-housenumber: 1990
+street: Avenida Santa Catalina
+housenumber: "1990"
 phone: ""
-opening_hours: "Mo-Fr 06:30-14:00; 17:00-00:00; Sa 09:30-14:00; 18:00-00:00; Su 10:00-14:00; 21:30:00"
+opening_hours: Mo-Fr 06:30-14:00; 17:00-00:00; Sa 09:30-14:00; 18:00-00:00; Su 10:00-14:00;
+    21:30:00
 website: ""

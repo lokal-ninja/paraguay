@@ -1,11 +1,11 @@
 id: 676155753
-type: way
+type: node
 latitude: -25.36025
 longitude: -57.5115
 postcode: "2160"
 city: San Lorenzo
-street: "Luis Irrazabal"
-housenumber: 230
+street: Luis Irrazabal
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

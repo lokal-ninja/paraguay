@@ -1,11 +1,11 @@
 id: 466763640
-type: way
+type: node
 latitude: -25.28667
 longitude: -57.59214
 postcode: ""
 city: Asunción
-street: "Avenida España"
-housenumber: 2497
-phone: "+595 21 604 590"
+street: Avenida España
+housenumber: "2497"
+phone: +595 21 604 590
 opening_hours: ""
-website: "https://www.fapasisa.com.py/"
+website: https://www.fapasisa.com.py/

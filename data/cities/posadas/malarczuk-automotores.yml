@@ -1,11 +1,11 @@
 id: 314328199
-type: way
+type: node
 latitude: -27.39648
 longitude: -55.90173
 postcode: "3300"
 city: Posadas
-street: "Avenida Uruguay"
-housenumber: 5222
-phone: "+54 376 442 5722"
+street: Avenida Uruguay
+housenumber: "5222"
+phone: +54 376 442 5722
 opening_hours: ""
 website: ""

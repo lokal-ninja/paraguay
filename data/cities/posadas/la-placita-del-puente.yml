@@ -1,11 +1,11 @@
 id: 199345767
-type: way
+type: node
 latitude: -27.37616
 longitude: -55.88816
 postcode: "3300"
 city: Posadas
-street: "Avenida Marconi"
-housenumber: 
+street: Avenida Marconi
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

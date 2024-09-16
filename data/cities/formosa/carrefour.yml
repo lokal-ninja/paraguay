@@ -1,11 +1,11 @@
 id: 244464489
-type: way
+type: node
 latitude: -26.1904
 longitude: -58.18798
 postcode: "3600"
 city: Formosa
-street: "Avenida Doctor Luis Gutnisky"
-housenumber: 2040
+street: Avenida Doctor Luis Gutnisky
+housenumber: "2040"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 382623535
-type: way
+type: node
 latitude: -27.36738
 longitude: -55.89464
 postcode: "3300"
 city: Posadas
-street: "Colón"
-housenumber: 1768
+street: Colón
+housenumber: "1768"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1240031094
-type: way
+type: node
 latitude: -25.312
 longitude: -57.5861
 postcode: "001420"
 city: LOS LAURELES
-street: "Avenida Doctor Eusebio Ayala"
-housenumber: 1606
-phone: "+595 021 237 6970"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-20:00"
-website: "http://www.ferrex.com.py/"
+street: Avenida Doctor Eusebio Ayala
+housenumber: "1606"
+phone: +595 021 237 6970
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-20:00
+website: http://www.ferrex.com.py/

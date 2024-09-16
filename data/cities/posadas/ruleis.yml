@@ -1,11 +1,11 @@
 id: 433610537
-type: way
+type: node
 latitude: -27.42717
 longitude: -55.91769
 postcode: ""
 city: Posadas
-street: "Avenida Cabo de Hornos"
-housenumber: 3348
+street: Avenida Cabo de Hornos
+housenumber: "3348"
 phone: ""
 opening_hours: ""
 website: ""

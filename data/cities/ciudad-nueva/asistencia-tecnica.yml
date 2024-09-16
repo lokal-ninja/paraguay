@@ -1,11 +1,11 @@
 id: 1232300325
-type: way
+type: node
 latitude: -25.30122
 longitude: -57.61778
 postcode: "001226"
 city: Ciudad Nueva
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

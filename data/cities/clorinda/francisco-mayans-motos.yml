@@ -1,11 +1,11 @@
 id: 584441057
-type: way
+type: node
 latitude: -25.28734
 longitude: -57.7159
 postcode: "3610"
 city: Clorinda
-street: "12 de Octubre"
-housenumber: 1145
-phone: "+54 3718 42-2014"
-opening_hours: "Mo-Fr 08:00-12:00,16:00-20:00; Sa 08:30-12:30"
+street: 12 de Octubre
+housenumber: "1145"
+phone: +54 3718 42-2014
+opening_hours: Mo-Fr 08:00-12:00,16:00-20:00; Sa 08:30-12:30
 website: ""

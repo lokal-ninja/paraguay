@@ -2,10 +2,10 @@ id: 3202653643
 type: node
 latitude: -27.4
 longitude: -55.90227
-postcode: "N3300MPR"
+postcode: N3300MPR
 city: Posadas
-street: "Avenida Uruguay"
-housenumber: 5658
-phone: "+54 376 445 5505"
+street: Avenida Uruguay
+housenumber: "5658"
+phone: +54 376 445 5505
 opening_hours: ""
 website: ""

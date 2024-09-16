@@ -1,11 +1,11 @@
 id: 451116012
-type: way
+type: node
 latitude: -27.37817
 longitude: -55.90654
 postcode: "3300"
 city: Posadas
-street: "Avenida Lavalle"
-housenumber: 3135
+street: Avenida Lavalle
+housenumber: "3135"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,16:00-20:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,16:00-20:00; Sa 08:00-12:00
 website: ""

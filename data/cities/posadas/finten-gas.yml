@@ -1,11 +1,11 @@
 id: 268206123
-type: way
+type: node
 latitude: -27.40336
 longitude: -55.92158
 postcode: "3300"
 city: Posadas
-street: "Avenida Quaranta"
-housenumber: 4071
+street: Avenida Quaranta
+housenumber: "4071"
 phone: ""
 opening_hours: ""
 website: ""

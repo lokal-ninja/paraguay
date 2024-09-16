@@ -1,11 +1,11 @@
 id: 1185197242
-type: way
+type: node
 latitude: -25.30821
 longitude: -57.57705
 postcode: "001415"
 city: MARISCAL JOSÉ FÉLIX ESTIGARRIBIA
-street: "Doctor Facundo Machaín"
-housenumber: 
-phone: "021 729 7200"
+street: Doctor Facundo Machaín
+housenumber: ""
+phone: 021 729 7200
 opening_hours: ""
-website: "https://www.casarica.com.py/"
+website: https://www.casarica.com.py/

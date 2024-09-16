@@ -1,11 +1,11 @@
 id: 1234149195
-type: way
+type: node
 latitude: -25.3024
 longitude: -57.61449
 postcode: "001226"
 city: Ciudad Nueva
-street: "Avenida Doctor Eusebio Ayala"
-housenumber: 
-phone: "Tel: 021 201 066 - 021 225 441 - 0971 699 088"
+street: Avenida Doctor Eusebio Ayala
+housenumber: ""
+phone: 'Tel: 021 201 066 - 021 225 441 - 0971 699 088'
 opening_hours: ""
 website: ""

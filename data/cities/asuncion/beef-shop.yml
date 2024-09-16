@@ -1,11 +1,11 @@
 id: 445490458
-type: way
+type: node
 latitude: -25.28774
 longitude: -57.59895
 postcode: ""
 city: Asunción
-street: "Avenida España"
-housenumber: 
-phone: "+595 219 5000"
-opening_hours: "Mo-Fr 07:30-19:00, Sa 7:30-13:00"
-website: "https://fernheim.com.py/"
+street: Avenida España
+housenumber: ""
+phone: +595 219 5000
+opening_hours: Mo-Fr 07:30-19:00, Sa 7:30-13:00
+website: https://fernheim.com.py/

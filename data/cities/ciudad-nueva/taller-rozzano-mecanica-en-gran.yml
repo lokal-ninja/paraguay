@@ -1,11 +1,11 @@
 id: 1195098128
-type: way
+type: node
 latitude: -25.30166
 longitude: -57.61579
 postcode: "001226"
 city: Ciudad Nueva
-street: "Avenida Doctor Eusebio Ayala"
-housenumber: 
+street: Avenida Doctor Eusebio Ayala
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""
