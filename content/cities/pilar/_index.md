@@ -1,6 +1,6 @@
 ---
 title: Pilar
 url: /pilar/
-latitude: -26.858
-longitude: -58.3
+latitude: -26.864
+longitude: -58.299
 ---
