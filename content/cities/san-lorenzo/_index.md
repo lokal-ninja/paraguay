@@ -1,6 +1,6 @@
 ---
 title: San Lorenzo
 url: /san-lorenzo/
-latitude: -25.339
-longitude: -57.564
+latitude: -25.346
+longitude: -57.5
 ---
