@@ -1,6 +1,6 @@
 ---
 title: Presidente Franco
 url: /presidente-franco/
-latitude: -25.553
-longitude: -54.64
+latitude: -25.561
+longitude: -54.609
 ---
