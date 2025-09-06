@@ -1,5 +1,5 @@
 ---
 title: "L&G"
 url: /posadas/lyg/
-shop: comodidad
+shop: carnicero
 ---
