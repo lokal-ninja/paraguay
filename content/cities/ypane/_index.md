@@ -2,5 +2,5 @@
 title: Ypané
 url: /ypane/
 latitude: -25.456
-longitude: -57.472
+longitude: -57.473
 ---
