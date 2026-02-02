@@ -1,6 +1,6 @@
 ---
 title: Hernandarias
 url: /hernandarias/
-latitude: -25.389
-longitude: -54.646
+latitude: -25.407
+longitude: -54.632
 ---
