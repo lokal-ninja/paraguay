@@ -1,6 +1,6 @@
 ---
 title: Colonia Wanda
 url: /colonia-wanda/
-latitude: -25.97
-longitude: -54.559
+latitude: -25.969
+longitude: -54.561
 ---
