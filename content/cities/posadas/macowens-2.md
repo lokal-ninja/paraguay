@@ -1,5 +1,5 @@
 ---
 title: "Macowens"
-url: /posadas/macowens-san-lorenzo/
+url: /posadas/macowens-2/
 shop: ropa
 ---
