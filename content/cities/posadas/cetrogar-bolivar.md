@@ -1,5 +1,5 @@
 ---
 title: "Cetrogar"
-url: /posadas/cetrogar-avenida-uruguay/
+url: /posadas/cetrogar-bolivar/
 shop: electrónica
 ---

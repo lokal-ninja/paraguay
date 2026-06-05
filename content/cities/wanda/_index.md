@@ -1,6 +1,6 @@
 ---
 title: Wanda
 url: /wanda/
-latitude: -25.972
-longitude: -54.562
+latitude: -25.97
+longitude: -54.577
 ---
