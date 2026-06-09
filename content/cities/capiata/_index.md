@@ -1,6 +1,6 @@
 ---
 title: Capiatá
 url: /capiata/
-latitude: -25.389
-longitude: -57.47
+latitude: -25.352
+longitude: -57.445
 ---
