@@ -1,5 +1,5 @@
 ---
 title: "Belén"
 url: /posadas/belen/
-shop: carnicero
+shop: material de oficina
 ---
