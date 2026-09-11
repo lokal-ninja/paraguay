@@ -1,5 +1,5 @@
 ---
 title: "Vivero los Arandanos"
 url: /posadas/vivero-los-arandanos/
-shop: floristería
+shop: centro de jardinería
 ---
