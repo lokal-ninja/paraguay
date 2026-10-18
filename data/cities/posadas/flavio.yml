@@ -7,5 +7,5 @@ city: Posadas
 street: Avenida Lavalle
 housenumber: "1798"
 phone: ""
-opening_hours: Mo-Sa 08:00-12:00 17:00-20:00
+opening_hours: Mo-Sa 08:00-12:00,17:00-20:00
 website: ""
