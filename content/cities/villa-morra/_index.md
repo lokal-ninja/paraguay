@@ -1,6 +1,6 @@
 ---
-title: VILLA MORRA
+title: Villa Morra
 url: /villa-morra/
-latitude: -25.287
-longitude: -57.573
+latitude: -25.289
+longitude: -57.574
 ---

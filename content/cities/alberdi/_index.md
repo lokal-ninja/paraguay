@@ -1,6 +1,6 @@
 ---
 title: Alberdi
 url: /alberdi/
-latitude: -26.189
-longitude: -58.141
+latitude: -26.191
+longitude: -58.131
 ---

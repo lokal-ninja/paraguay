@@ -1,5 +1,5 @@
 ---
 title: "Impreco"
-url: /posadas/impreco-bolivar/
+url: /posadas/impreco-2/
 shop: copyshop
 ---
