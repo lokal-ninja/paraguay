@@ -1,6 +1,6 @@
 ---
 title: Ñemby
 url: /nemby/
-latitude: -25.423
-longitude: -57.538
+latitude: -25.4
+longitude: -57.52
 ---

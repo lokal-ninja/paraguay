@@ -7,5 +7,5 @@ city: Ciudad del Este
 street: Avenida Doctor Luis Maria Argaña
 housenumber: "100135"
 phone: ""
-opening_hours: SU-SU 07:00-17:00
+opening_hours: ' 07:00-17:00'
 website: www.kemsa.com.py
