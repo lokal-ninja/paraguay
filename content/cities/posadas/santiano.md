@@ -1,5 +1,5 @@
 ---
 title: "Santiano"
 url: /posadas/santiano/
-shop: general
+shop: cuarto de baño
 ---
